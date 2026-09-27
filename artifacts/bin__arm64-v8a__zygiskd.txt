@@ -1,0 +1,1370 @@
+0x273      k36  stem%binKlin
+0x27a      k36  n/lidkerR4
+0x1248     k36  ibc_cnitd__c
+0x1255     k36  a_atoxitd__r
+0x1267     k36  r_atlorkdsoc
+0x1272     k36  cketzaird__e
+0x12fe     k36  tnamo_npdpth
+0x130b     k36  ead_yelfdstr
+0x131f     k36  progdamedprc
+0x135f     k36  pageyizedfsc
+0x137d     k36  truniatedsym
+0x13b5     k36  acceysatdrmd
+0x13f1     k36  pwri~e64dpro
+0x1403     k36  m_wrctevdpro
+0x1414     k36  vm_roadvdfse
+0x1426     k36  emptssetdsig
+0x1430     k36  igadnsetdpth
+0x1440     k36  _siggaskdmem
+0x145d     k36  _get~imedsig
+0x146a     k36  imed}aitdsys
+0x1476     k36  _sigdamedsys
+0x14a5     k36  basedamedfdo
+0x14af     k36  dopeddirdclo
+0x14b8     k36  closodirdpth
+0x14c7     k36  d_croatedpth
+0x14db     k36  speccficdget
+0x1505     k36  ertyUgetdput
+0x1540     k36  altige_rdstr
+0x1549     k36  strf~imeddup
+0x1570     k36  g_nx~hdrdset
+0x157b     k36  tsocaoptdstr
+0x1597     k36  d_simnaldpth
+0x15ae     k36  roadiastdpth
+0x15c0     k36  ond_}aitdpth
+0x15d7     k36  imed}aitdpth
+0x15ec     k36  _des~roydpth
+0x15ff     k36  tex_fockdpth
+0x1614     k36  x_unfockdpth
+0x162a     k36  _des~roydfre
+0x1645     k36  memafigndsnp
+0x165d     k36  d_de~achdpth
+0x1670     k36  y_croated__a
+0x1684     k36  og_pxintd__a
+0x1698     k36  og_wxitedand
+0x16b2     k36  _mesyagedabo
+0x16d9     k36  openUextdget
+0x16e3     k36  etrlcmitdfge
+0x16fa     k36  realzathdfcl
+0x171c     k36  lockliledset
+0x174a     k36  tsocaoptdrec
+0x1771     k36  etaurvaldstr
+0x1798     k36  libdf.sodLIB
+0x17af     k36  iblom.sodlib
+0x5164     k36   vir~ualDfun
+0x516d     k36  func~ionDcal
+0x5175     k36   calfed!d%s 
+0x517f     k36  s facledDto 
+0x5182     k36  ailen toDrel
+0x518a     k36   reloaseDmut
+0x51a2     k36  ad_aflocDwas
+0x51a6     k36  lloc*wasDthr
+0x51ad     k36  s thxownDin 
+0x51b0     k36  hrowd inD-fn
+0x51b1     k36  rown*in Ifno
+0x51b5     k36   in 'fnoIexc
+0x51c0     k36  ceptconsDmod
+0x51c5     k36  ons goded%s 
+0x51cf     k36  s facledDto 
+0x51d2     k36  ailen toDacq
+0x51f3     k36  _hannlerDune
+0x5200     k36  pectodlyDret
+0x5209     k36  retuxneddexy
+0x5212     k36  exynes98U0
+0x5214     k36  ynos3810dsys
+0x5221     k36  em_exrorDwas
+0x5225     k36  rror*wasDthr
+0x522c     k36  s thxownDin 
+0x522f     k36  hrowd inD-fn
+0x5230     k36  rown*in Ifno
+0x5234     k36   in 'fnoIexc
+0x523f     k36  ceptconsDmod
+0x5244     k36  ons godeDwit
+0x5249     k36  ode }ithDerr
+0x524f     k36  th exrorD%i 
+0x5250     k36  h erxor Ai a
+0x5252     k36  errox %iDand
+0x5256     k36  r %i*andDmes
+0x525e     k36   mesyageD"%s
+0x525f     k36  messkge F%s"
+0x5260     k36  essame "As"
+0x5280     k36  deteitedDrec
+0x528a     k36  ecuryiveDini
+0x529a     k36  izatcon:Ddo 
+0x529d     k36  tion0 doDyou
+0x52a1     k36  : do*youDhav
+0x52a6     k36  you baveDa f
+0x52b1     k36  func~ionIloc
+0x52b7     k36  on-lecalDsta
+0x52be     k36  l stkticDvar
+0x52c7     k36  varikbleDwho
+0x52cd     k36  le wboseDini
+0x52dc     k36  liza~ionDdep
+0x52e4     k36   depondsDon 
+0x52e7     k36  pendy onDtha
+0x52ec     k36   on ~hatDfun
+0x52f6     k36  unctcon?d%s 
+0x5300     k36  s facledDto 
+0x5303     k36  ailen toDbro
+0x530d     k36  roadiastdter
+0xc2fc     k12  3PFYX6%~ot
+0xcdfc     k12  kUGYhl%~Sy
+0x3d0a4    k37  IWzWi#2I/19Z
+0x3d6f3    k5   yGJ07AYijb
+0x3d8d0    k37  iYzWi*7I/19Z
+0x3dce0    k37  IVaWIg:I/19Z
+0x3dcf0    k37  iVaWIg:I/19Z
+0x3e708    k35  EW%'syBqLq
+0x3e950    k37  )ScWiM%I/19Z
+0x3e9cb    k5   y'D!7AYijb
+0x3ea0b    k5   y'967AYijb
+0x3ead8    k37  IScWiM%I/19Z
+0x4200c    k37  hQMw@6eo86
+0x43897    k5   yFT*7aYhjkX
+0x44ed8    k37  H?Mw 5e,YI
+0x4611d    k23  uHp4P/4bj":E
+0x4786c    k37  pJTwG5e, o
+0x48020    k16   uq{q}MnK'
+0x488ab    k5   yFF27aYhjkX
+0x48b53    k5   yfT67aYhjkX
+0x48bbf    k5   yf &7aYhjkX
+0x48d47    k5   yFn87aYhjkX
+0x4904f    k5   y&.)7aYhjkX
+0x490ff    k5   yF}=7aYhjkX
+0x49153    k5   y&B47aYhjkX
+0x491a7    k5   yf:07aYhjkX
+0x49273    k5   yF9,7aYhjkX
+0x49357    k5   yf'97aYhjkX
+0x494d3    k5   yf,'7aYhjkX
+0x49517    k5   y&=*7aYhjkX
+0x495b7    k5   yf&57aYhjkX
+0x495fb    k5   yFJ07aYhjkX
+0x49653    k5   yfw/7aYhjkX
+0x49b73    k5   yfR"7aYhjkX
+0x4a79d    k16  V<Eu>2XtNRD
+0x4cd8c    k37  (CyWH0%Io18Z
+0x4d0a7    k17  gHT&{We7Pu
+0x4d2d0    k37  (QzW(e?Io18Z
+0x4e06c    k37  )8eWhN8IyO
+0x4f653    k5   y&(77aYhjkX
+0x4f793    k5   y&@27aYhjkX
+0x4f8cc    k16  BeM[a3sND%
+0x50eb3    k5   yFT#7aYhjK
+0x54438    k37  (sKwT7e,X2p
+0x54c99    k23  THp=Dt'*oJ
+0x550e3    k5   y&!57aYhjkX
+0x598d0    k15  npi="%-UWN
+0x59cfb    k17  aXX/{qg-PReG
+0x5bb49    k23  vHp4H/41eJ
+0x5d18f    k26  IM[oK75X<vZ
+0x5e533    k17  aj- {wr%Pc
+0x5ef67    k17  ajH.{wb2PC
+0x60ed1    k2   3V!u#@PpWd
+0x62058    k37  i}eWia1I/19Z
+0x62269    k23  GHp<Dz'KeJ
+0x64b24    k25  al1d{+{oRs
+0x663cc    k37  iSmW)O5I/19Z
+0x679b3    k5   yFT27aYhjkX
+0x6a30a    k20  v[3[Q*yS:TVZ
+0x6b09c    k37  /qHwv5e,y1p
+0x6ca40    k37  H#Gwo5e,X9
+0x6dab4    k37  )btWig<I/19Z
+0x6dc4c    k37  hLSwi5e,Yw
+0x721f0    k37  iyzWIC+I/19Z
+0x72e88    k37  iltWIT%I/19Zq
+0x742b4    k37  (BAwD5e,E3p
+0x753ff    k5   y9b:7A[wjtX
+0x757d1    k23  x<>4ho4cZ?rfx
+0x7731d    k31  vxaMWi~dFTw
+0x7a180    k37  HaZw)l2I8!
+0x7a6cc    k37  (jPwi&e,8n
+0x7ac87    k5   ygm17AYijb
+0x7b74b    k5   yf:27aYhjkX
+0x7d243    k17  aj4!{We/PC
+0x80464    k37  IWqWiJ1I/50@
+0x80d11    k31  nxamdx~D?Ew
+0x835e8    k16  f)o{1odNTa
+0x8681b    k22  {ECL1}uDL[
+0x883c9    k29  ?yRa/)WQCq
+0x8cd3c    k37  IGxWi7*I/10Cx[
+0x8ecd5    k16  V:Ei92XTnZDk
+0x8ecec    k37  iRpW)z8I/19Z
+0x95fdc    k37  i}eWix#I/19Zp40g
+0x989ac    k37  TBJwHi%I600%
+0x9b2f4    k37  iPbW)R2I/19Z
+0x9b721    k16  V:Eu92X4TDDV?(
+0x9baa0    k16  U!o{83LnHM
+0x9ea4c    k37  WJMwXa"Ii@
+0x9efdb    k5   yGf,7AYij"
+0xa1118    k37  iWeWI#?I/19Z
+0xa21a4    k16  h)o{QclNg!
+0xa4ff4    k37  HZSw}5e,xX
+0xa56d4    k23  DLde/x09_H
+0xabf07    k30  'KD5Pka+/o
+0xad22f    k5   yG&?7AYijjX
+0xad4ae    k20  a[0LJ*YJ'T
+0xadef1    k23  EH3<Du'fAJ
+0xae1fb    k5   yG</7AYijjX
+0xaea98    k16  m)o{Qz}ND 
+0xaefdd    k31  Hxa-5v~D'Iw
+0xaeff8    k37  (pEwL5e,8r
+0xaf9c8    k16  m)o{q9tN4E
+0xb14b7    k14  v(FkV7qac{
+0xb1e88    k37  iQjW)q*I/19ZP:0g
+0xb278c    k37  iGBwJv.I300%
+0xb342f    k17  gii2{VJ2P5
+0xb54d0    k16  b3a{nVtN@ 
+0xb56ef    k5   yy[ 7A[wjtX
+0xb70cc    k16  }Va{QecNb!
+0xb8264    k37  IedWiZ-I/19Z
+0xb87fc    k16  =dz{1efNS!
+0xb9450    k16  i)o{QOhNtn
+0xbb3cc    k37  HlHw -eo8o
+0xbb6e0    k37  (DNwt4e,x3
+0xbc23b    k5   yg"37AYij"
+0xbd1ac    k16  nok{"phNa"
+0xbdb16    k6   _Ck%aMjeeX
+0xbed00    k16  }je{qQvN8 
+0xbf23c    k37  iEiWIj4I/19Z
+0xbf550    k16  b)o{OfbNw!
+0xbfa6c    k37  v3Awd7e,fx
+0xc03bb    k5   yG)&7AYijb
+0xc079b    k5   y':57AYijb
+0xc4d1b    k22  [o9C1jvDD>
+0xc4e2e    k18  z%T*tZVi*0
+0xc602c    k37  yRJwG6e,Io
+0xc625f    k5   yG3,7AYij"
+0xc75ec    k16  c)o{1fgNA 
+0xc9127    k5   yfR.7aYhjkX
+0xc935c    k37  H/OwT4e,Xr
+0xc9da8    k37  (LHwS4e,8J
+0xca1df    k17  giX&{vW9P5
+0xca36c    k37  hzCwN5e,Ys
+0xca837    k5   yge37AYijb
+0xcb617    k5   ygL-7AYij"
+0xcc472    k13  )U3zV-VqfWi4
+0xcc5ae    k13  )U3zV-V}gWi4
+0xcc5fe    k13  )U3zV-V%fWi4
+0xcc662    k13  )U3zV-V5gWi4
+0xcdcfb    k17  giT/{vE1P5
+0xcdf57    k5   yG4=7AYijb
+0xce99c    k37  i4lWIz!I/19Z
+0xceb65    k23  eHp4Dv'_ZK
+0xcf20f    k17  gIa4{VF0P5
+0xcf473    k17  aIV,{wD=P#
+0xcfa98    k37  hDHwA7e,X2p
+0xd0128    k37  HYBwT5e,y5
+0xd116b    k17  giN6{vU.P5
+0xd1310    k37  iahWI,1I/19Z
+0xd167c    k37  i?yWiI1I/19Z
+0xd1e00    k37  i*lWis5I/19ZQ
+0xd2588    k37  xCFwU(,Ii80
+0xd280c    k37  )vyWih)I/19Z
+0xd38a7    k5   yfd17aYhjkX
+0xd38ff    k5   yf9(7aYhjkX
+0xd3d43    k5   y&d*7aYhjkX
+0xd3db7    k5   yF=77aYhjkX
+0xd696c    k37  HnMwc4e,Xt
+0xd755c    k16  }iy{Q-rNG 
+0xd77c8    k37  iXyW)W4I/19Z
+0xd866f    k17  a*T4{WM"PC
+0xd99e7    k17  aZy'{Vb=Pp6C
+0xd9af3    k5   yG"(7AYij"
+0xda02b    k5   yg-47AYijb
+0xda153    k5   yGg?7AYij"
+0xdcaf0    k15  By)tOv,m?,
+0xdcb84    k15  By)tOf,m>,
+0xdcbe8    k15  By)tOV,m>,
+0xdd387    k5   y&G%7aYhjkX
+0xdd40f    k5   yF,>7aYhjkX
+0xdd487    k5   yfw47aYhjkX
+0xdd5a7    k5   yF>,7aYhjkX
+0xdd863    k5   y'Q?7AYijjX
+0xdd8ab    k5   yg<!7AYijjX
+0xdf234    k37  {JBwm5e,xd
+0xe08d1    k16  V:Eb92XtcFDvu?
+0xe0a7e    k20  t[SkZ*yY>TVP
+0xe12ff    k17  'jp9{uM+Pu
+0xe22c0    k16  l)o{q>gNZ!
+0xe2ac0    k37  h3PwL5e,xS
+0xe36c8    k37  ISeW)m<I/19Z
+0xe558f    k5   yGF*7AYijjX
+0xe58a3    k5   !ZX*7AYijjX
+0xe5ab7    k5   ygi27AYijjX
+0xe5edf    k5   y'b37AYijjX
+0xe612b    k5   yg.'7AYijjX
+0xe6f52    k6   _CO'aM[cyXjM
+0xe770c    k37  iRYwJF3I300%
+0xe7860    k37  )pdWiN=I/19Z
+0xe8ee9    k23  KHp<Dz'JaJ
+0xe9cc8    k16  =do{QxcNe 
+0xea79c    k37  hyQwiR>I:i
+0xeb334    k37  h6FwO5e,8o
+0xec411    k15  gxBe7yzt hR
+0xecb9a    k13  !UAuVd}(dR
+0xecc94    k37  I=tWIu(I/19Z
+0xed418    k15  Eu)P*E,m?t
+0xed714    k37  hkZwp4e,X<
+0xef846    k20  v[sTB*yy2T
+0xf1124    k5   L.i@Eh piqX
+0xf1a47    k5   yg =7AYijB
+0xf271f    k5   yG.'7AYijB
+0xf297b    k5   yge27AYijb
+0xf2a03    k5   yGq47AYij"
+0xf2ec8    k37  I3gWiw/I/19Z
+0xf3190    k37  i3gWiw/I/19Z
+0xf3243    k5   yG!87AYijB
+0xf3ecd    k16  V:EaM1Xt_BDv
+0xf7b11    k31  pxa-ej~dVYw
+0xf89d8    k37  HmPw6>e,xq
+0xf9a2c    k37  (mBw :e,Ysu
+0xfc43f    k17  gib {vh7P5
+0xfd33b    k5   yFk,7aYhjkX
+0xfd70c    k16  =hd{Qa~NZ"
+0xfd78f    k5   yFd27aYhjkX
+0xfd88b    k5   yf(37aYhjkX
+0xfd9ef    k5   yfO>7aYhjkX
+0xfda97    k5   yF7?7aYhjkX
+0xfdee3    k5   yF>>7aYhjkX
+0xfe0bf    k5   y&_"7aYhjkX
+0xfe298    k16  =Bb{q<kNy%
+0xfe3c0    k15  npi}#Y.EWG
+0x1015ac   k37  hOBwt7e,x3
+0x101a17   k14  v(}CV'qacz
+0x1020db   k30  'KD5PiV+/G
+0x103bd4   k16  <VE[SMfN6i
+0x105228   k16  _ya{1xzNtm
+0x106697   k5   yGW)7AYij"
+0x106a33   k5   y's*7AYijB
+0x106f0d   k23  EH34Dy'a{H
+0x1072b0   k37  hOKw 5eoX60
+0x10874d   k23  FH34Dy'QAH
+0x10ad53   k5   yGP<7AYij"
+0x10af6b   k5   yG}=7AYijb
+0x10bf2b   k5   yg887AYijb
+0x10c073   k17  gVc){I{'Pof
+0x10c268   k15  8L(P+e/mUT
+0x10e4ef   k25  ux!3kh?_gr
+0x10e5f7   k22  YEBL1)uD!S*
+0x10eae7   k22  yeAL1UtD!S*
+0x10ff2f   k5   yfl37aYhjkX
+0x111330   k16  }sj{1XoND 
+0x111afb   k5   y'K(7AYijb
+0x11201f   k5   y'l67AYijB
+0x112070   k37  iPbWIf<I/19ZP,0g
+0x1120ff   k5   yGB87AYijB
+0x1122f4   k23  J0depi.9zH
+0x11252c   k37  7+NwT7e,XV
+0x112ec4   k37  iAcWI[&I/19Z
+0x11305b   k19  :Xo>eCs7s2
+0x114545   k23  KHp4X/4br#:e
+0x1151e6   k13  !UCqE7tIeR
+0x115a54   k16  U+o{83Lnuu
+0x115d4c   k37  })Uwym9IH?
+0x11648f   k17  giK9{VW+P5
+0x116a1a   k13  !UCqE7aOeR
+0x116b1a   k13  !UCqE7!OeR
+0x1176f0   k16  y(c3T3A&Dx
+0x118ef4   k16  ,iD[DrgNun
+0x11b8bf   k11  CD'oQ/r#Q2
+0x11bbd7   k5   yFR,7aYhjkX
+0x11c0a3   k5   y&j=7aYhjkX
+0x11ca87   k5   yF-'7aYhjkX
+0x11d597   k5   yfX!7aYhjkX
+0x11dc3f   k5   yFL?7aYhjkX
+0x11dca7   k5   yFF27aYhjkX
+0x11dcdf   k5   y&o&7aYhjkX
+0x11de5f   k5   y&w87aYhjkX
+0x11e2a3   k5   y&7)7aYhjkX
+0x11e3ab   k5   yFd(7aYhjkX
+0x11e43b   k5   y&m.7aYhjkX
+0x11e9d4   k15  Ot)P+e<m>l
+0x120657   k17  giS,{VL=P5
+0x122fb1   k23  8Hp<P/t#yJ
+0x124224   k37  H2Pwo=e,8m
+0x1256e1   k31  pxamDi~dAUw
+0x127634   k37  (<RwE=e,xa
+0x128905   k23  KH3<X/tHiJ
+0x12a52e   k13  !UCqE7Z>eR
+0x12a5d6   k13  !UCqE7p>eR
+0x12a72a   k13  !UCqE7%>eR
+0x12c91a   k13  !:(xVdZYgo_
+0x12cc6d   k23  FH3=Du'*eJ
+0x12d198   k37  HaBwIJ-IZC
+0x12e4d0   k37  ho_wiD0IZX
+0x12ef98   k37  )KwWim:I/19Z
+0x1311f9   k23  FH3<D{'yfJ
+0x1314b0   k37  ifYw~5e,XY
+0x134d2c   k37  h}XwT4e,xb
+0x136685   k23  CHpkE/tco<:
+0x136f30   k37  (PTwV5e,XC
+0x13aaed   k23  EHp<Du'Y~I
+0x13ac5d   k23  IHp<Dy'R[K
+0x13d098   k37  HMFwJ4e,zB
+0x141838   k37  iQoWi?6I/19Z
+0x145322   k20  m[S4L*yc(T
+0x145703   k5   yG..7AYijjX
+0x1458bb   k5   yG6:7AYijjX
+0x145af3   k5   ygl37AYijjX
+0x145f97   k5   y'a+7AYijjX
+0x14604f   k5   yG0*7AYijjX
+0x146377   k5   yGX"7AYijjX
+0x1463ef   k5   yg%17AYijjX
+0x1464bf   k5   y'P&7AYijjX
+0x148388   k16  Ouo{duYnaW
+0x148761   k31  gxZ-ie~E@iWybtI
+0x149eac   k37  (gDwO4e,X@
+0x14a604   k37  hlWwiG8IZM
+0x14bded   k28  s}Re}TQ=t5AQv
+0x14e2ff   k22  }L2D1arDE'
+0x14f830   k37  iAXwJK=I300%
+0x15113b   k5   yFu97aYhjkX
+0x1511df   k19  :O&~HaPU6X
+0x1515c7   k5   y'N'7AYijb
+0x151aef   k5   yGa&7AYij"
+0x151b2f   k5   y'N 7AYij"
+0x151d2b   k5   yGS27AYijB
+0x154358   k37  hbGwiX3I,10%
+0x154b48   k37  uNZwhe5I600%
+0x155098   k37  h>gWh7>Io18Z
+0x155651   k31  Axa-ul~DtXw
+0x156eec   k16  i)o{QEnNh&
+0x156fa0   k15  npi}#Y.Ew<
+0x157eef   k5   y'f!7AYijB
+0x1583af   k17  gif<{VN'P5
+0x158a5d   k23  n(>4ho4qeJ
+0x1592ab   k5   yuH%7VYb3k(
+0x159e31   k23  DH3<Dy'+NJ
+0x15aa10   k16  L7m{ VuNX!
+0x15aced   k15  gxB%ryzT<.P
+0x15ae47   k5   y'397AYijb
+0x15b217   k5   ygy37AYijCq
+0x15e233   k5   y&v=7aYhjk<A
+0x15e445   k23  ~Hp4d/4weJ
+0x1641a0   k37  h9Xw!4e,Xw
+0x164920   k37  iupWI{ I/19Z
+0x1668e8   k37  iogWiY+I/19Z
+0x1673c0   k37  YRPwHy?I400%
+0x168e90   k37  hfPwiM?IzY
+0x1692c4   k16  })a{mqzNH/
+0x16e6bc   k16  (iw{%x[niY
+0x16fac0   k37  i+oWiu8I/19Z
+0x16fb88   k30  eBFLD6gCLh
+0x174933   k5   y'x67AYijB
+0x174b13   k5   yG""7AYijB
+0x174f4f   k5   yg/=7AYijb
+0x1760b4   k37  ilxW)g3I/19Z
+0x177e69   k16  V)Ev82XTiYD
+0x178836   k20  z[SiU*9g"TVt
+0x178e84   k37  IHbWi?5I/19Z
+0x179df0   k37  iSwW)A6I/19Z
+0x17a483   k5   !ys<7AYijC
+0x17a5c0   k37  iviW)C4I/19Z
+0x17b08e   k6   _Cz(aMs0nXCFl
+0x17d32d   k9   >1OH1U6:Y+KAca
+0x17d94e   k6   _C'/dMo_dX
+0x18119c   k31  Kt5q'f&Wo?
+0x182103   k5   y'o"7AYijb
+0x182b2b   k5   yfS07aYhjoX
+0x183480   k37  HEDwV5e,YF
+0x1836df   k5   y&M<7aYhjkX
+0x1850cb   k5   ygl+7AYij"
+0x1854ef   k5   y&E:7aYhjkX
+0x185663   k5   yFm+7aYhjkX
+0x185743   k5   y&(=7aYhjkX
+0x18577b   k5   yF!*7aYhjkX
+0x1878cb   k21  v1ovBKE[=cs
+0x189acf   k12  uZUY'c%<z9
+0x189d9e   k20  r[StL*yU2T
+0x18c50d   k23  EHp"Hpu,TO
+0x18fc5c   k16  d=e{y[JnUx
+0x18fdac   k37  loaWlU0I/1<Z1
+0x1908e9   k23  FH3TEo=bO6:
+0x190e54   k37  iOwWi_'I/19ZP(0g
+0x1913be   k13  !UHeVdFXgR(M#
+0x1920bc   k37  h'lWH[=Io18Zp(0g
+0x192807   k5   yDu"7!YjjiX
+0x19288b   k5   ydv(7!YjjiX
+0x1944a4   k15  npi}#Q.Em+
+0x197231   k22  +Dzi%p,1FL
+0x19749f   k5   yG/"7AYijB
+0x197684   k37  WrXwF5e,YG
+0x197763   k5   y'B,7AYij"
+0x19787f   k17  giA-{vC8P5
+0x1979ee   k6   _Cg,aMD,lX5
+0x19a54b   k5   yFI87aYhjkX
+0x19ab37   k5   yfb*7aYhjkX
+0x19c858   k37  (MUwl4e,X(
+0x19d2b8   k16  =CJ[PXiNwj
+0x19db77   k17  gh+&{WE&Pu
+0x19eac0   k30  eBFL):cCLh
+0x19ecfb   k17  gin8{vN5P5
+0x19fd64   k37  wP@ws5e,Yg
+0x1a434b   k5   yg,37AYijb
+0x1a7081   k36  (@i.jAi"hCi
+0x1a895b   k5   yFW87aYhjkX
+0x1a8acf   k5   y&f(7aYhjkX
+0x1a8c63   k5   yf ?7aYhjkX
+0x1a8dd1   k23  DH3<Dy'8uN
+0x1a9d27   k5   ytz57![zjyX
+0x1aab9f   k22  {MPW1JeDD[O
+0x1aba20   k37  h%Ywx3e,8e
+0x1abd48   k16  }ga{Q(oNp'
+0x1adf20   k37  )nvWim/I/19Z
+0x1ae228   k37  iDlW)C#I/19Zq
+0x1ae6b0   k37  iUqWIU7I/19Z1
+0x1b01c0   k37  HKNwr5e,xe
+0x1b026c   k37  HaLwG5e,xf
+0x1b201f   k17  gIu,{vE&P5
+0x1b2210   k37  HSCwa5e,/1:Z
+0x1b34ac   k37  iDoW)y+I/19Z
+0x1b7560   k37  I}xWil0I/19Z
+0x1b8461   k23  AHp<Dz'CeJ
+0x1b9238   k37  IAzWi2"I/19Z
+0x1ba33f   k5   yiM-7!ZgjdX
+0x1ba393   k5   yiP87!ZgjdX
+0x1ba7db   k5   y_j/7!XqjrX
+0x1bb4a4   k37  )FmWij%I/19Z
+0x1bb4d8   k37  hAJw'5e,Y.
+0x1bbd01   k31  &xam~j~dUZw
+0x1bc0a1   k31  .xaM&c~d/Ew
+0x1bc1c4   k23  ChdeoP&9nH
+0x1bd0cc   k37  hLAw40e,X3p
+0x1be5e6   k13  *USqV71geW5
+0x1c054d   k16  U?da825TwDDV7)
+0x1c0f6f   k17  J)1ys7nMx"
+0x1c2444   k37  h!Gwt4e,Xo
+0x1c2539   k31  5xamDe~dkSw
+0x1c3375   k21  Nn)1L9oHMuK
+0x1c34f0   k37  Hp[wI0e,x{
+0x1c3b35   k21  'n)1L9oHLuK
+0x1c4309   k15  gwBe6yzuEo8
+0x1c458c   k37  o_Fwnt)I%[
+0x1c46a1   k15  g{B%+yzuu}
+0x1c5377   k5   yFq)7aYhjkX
+0x1c5703   k5   yfP<7aYhjkX
+0x1c5c1b   k5   yFP 7aYhjkX
+0x1c5ccf   k5   y&H17aYhjkX
+0x1c5dff   k5   y&!57aYhjkX
+0x1c5e8b   k5   yFm47aYhjkX
+0x1c7334   k37  hPXwIu0I81
+0x1c7829   k15  gxBE0yzT}/
+0x1c8965   k16  V>E,:2XteSD
+0x1ca117   k5   yfj27aYhjkX
+0x1ca263   k5   y&E57aYhjkX
+0x1ca3db   k5   yFj-7aYhjkX
+0x1ca5f4   k37  HFHw&4e,8z
+0x1caf2b   k5   yfH*7aYhjkX
+0x1cafa7   k5   yF./7aYhjkX
+0x1cb2ac   k16  olc{#0mNy 
+0x1cc23d   k23  FH3<Dz'taJ
+0x1ccd1b   k5   yg%+7AYijjX
+0x1cd14c   k37  iHjWIJ-I/19ZP
+0x1cd173   k5   ygx-7AYijjX
+0x1cd427   k19  :X'>eCs7sd
+0x1cee08   k37  I,rWiY:Io19Z
+0x1d2928   k0   ./bin/zygiskd64
+0x1d2938   k0   ./bin/zygiskd32
+0x1d2948   k0   socketpair failed with {}
+0x1d2962   k0   invalid companion response {} failed with {}
+0x1d2982   k0   iled with {}
+0x1d298f   k0   send fd to companion
+0x1d29ba   k0   exec companion failed with {}
+0x1d29d8   k0   basic_string
+0x1d29e5   k0   length_error was thrown in -fno-exceptions mode with message "%s
+0x1d2a05   k0   exceptions mode with message "%s"
+0x1d2a27   k0   bad_array_new_length was thrown in -fno-exceptions mode
+0x1d2a47   k0   in -fno-exceptions mode
+0x1d2a5f   k0   out_of_range was thrown in -fno-exceptions mode with message "%s
+0x1d2a7f   k0   exceptions mode with message "%s"
+0x1d2aa1   k0   zn-companion64
+0x1d2ab0   k0   receive lib fd failed with {}
+0x1d2ace   k0   zn-companion64 
+0x1d2ade   k0   spawning companion for {}
+0x1d2af8   k0   failed to dlopen for companion {}: {}
+0x1d2b1e   k0   zn_companion_module
+0x1d2b32   k0   module {} has no companion entry
+0x1d2b53   k0   module {} has incompatible API version: {}
+0x1d2b73   k0   ersion: {}
+0x1d2b7e   k0   module {} has no onModuleConnected callback
+0x1d2b9e   k0   ed callback
+0x1d2baa   k0   Something bad happened in zn daemon, terminate companion
+0x1d2bca   k0   mon, terminate companion
+0x1d2be6   k0   invalid digit count
+0x1d2bfa   k0   negative value
+0x1d2c09   k0   argument not found
+0x1d2c1c   k0   format-inl.h
+0x1d2c29   k0   unmatched '}' in format string
+0x1d2c48   k0   invalid format string
+0x1d2c5e   k0   missing '}' in format string
+0x1d2c7b   k0   unknown format specifier
+0x1d2c94   k0   cannot switch from manual to automatic argument indexing
+0x1d2cb4   k0   omatic argument indexing
+0x1d2ccd   k0   cannot switch from automatic to manual argument indexing
+0x1d2ced   k0   manual argument indexing
+0x1d2d06   k0   format specifier requires numeric argument
+0x1d2d26   k0   c argument
+0x1d2d31   k0   invalid format specifier
+0x1d2d4a   k0   invalid fill character '{'
+0x1d2d65   k0   number is too big
+0x1d2d77   k0   invalid precision
+0x1d2d89   k0   invalid fill
+0x1d2d96   k0   width/precision is out of range
+0x1d2db6   k0   width/precision is not integer
+0x1d2e21   k0   string pointer is null
+0x1d2e38   k0   zn-zygisk-companion64
+0x1d2e4e   k0   zn-zygisk-companion64 
+0x1d2e65   k0   zygisk_companion_entry
+0x1d2e7c   k0   Something bad happened in zygiskd, terminate companion
+0x1d2e9c   k0   d, terminate companion
+0x1d2ebe   k20  tombstone_
+0x1d2ec9   k20  string_view::substr
+0x1d2edd   k20  backtrace:
+0x1d2ef1   k20  Timestamp:
+0x1d2efc   k20  Abort message:
+0x1d2f36   k20  /data/adb/modules/
+0x1d2f83   k1   zn-daemon64
+0x1d2f9e   k1   zygisk-companion
+0x1d2faf   k1   zn-companion
+0x1d2fc5   k1   zygote-injector
+0x1d2fd5   k1   service-injector
+0x1d2fe6   k1   stub-zygote-injector
+0x1d2ffb   k1   zn-injector64
+0x1d3009   k1   injecting {} {} (injector {})
+0x1d3042   k1   inject {} {} succeed
+0x1d3057   k1   service-stage
+0x1d3076   k1   /data/adb/zygisksu/znctx
+0x1d30a6   k1   denylist-policy
+0x1d30c8   k1   unknown mode: {}, available: default, whitelist
+0x1d30e8   k1   ault, whitelist
+0x1d30f9   k1   enforce-denylist
+0x1d311b   k1   just_umount
+0x1d3127   k1   unknown mode: {}, available: disabled, enabled, just_umount
+0x1d3147   k1   abled, enabled, just_umount
+0x1d3164   k1   memory-type
+0x1d317a   k1   unknown mode: {}, available: default, anonymous
+0x1d319a   k1   ault, anonymous
+0x1d31c1   k1   unknown mode: {}, available: system, builtin
+0x1d31e1   k1   tem, builtin
+0x1d3207   k1   unknown mode: {}, available: enable, disable
+0x1d3227   k1   ble, disable
+0x1d3235   k1   disable-zygisk
+0x1d324f   k1   unknown value: {}, available: true, false
+0x1d329b   k1   unknown cmd: {}, enable, disable or reload is required.
+0x1d32bb   k1    or reload is required.
+0x1d32d3   k1   Zygisk Next Controller {}
+0x1d3468   k1   unsupported architecture
+0x1d3481   k1   set arg start failed with {}
+0x1d349e   k1   set arg end failed with {}
+0x1d34b9   k1   Error code=
+0x1d34ce   k1   bad_variant_access was thrown in -fno-exceptions mode
+0x1d34ee   k1    -fno-exceptions mode
+0x1d3504   k12  dumping maps:
+0x1d3512   k12  dumping regs:
+0x1d352a   k12  wait for stop
+0x1d3538   k12  get regs for dump
+0x1d354a   k12  failed to get entry
+0x1d355e   k12  stopped by other reason: {}
+0x1d357a   k12  stopped at unknown addr {}
+0x1d35a5   k12  close not found in libc
+0x1d35c4   k12  socket not found in libc
+0x1d35e2   k12  bind not found in libc
+0x1d3601   k12  recvmsg not found in libc
+0x1d3623   k12  __errno not found in libc
+0x1d3644   k12  strlen not found in libc
+0x1d365d   k12  init libdl
+0x1d3668   k12  init linker
+0x1d367c   k12  send lib fd
+0x1d368e   k12  remote socket
+0x1d369c   k12  remote socket call
+0x1d36af   k12  remote bind
+0x1d36ca   k12  get remote socket con
+0x1d36e0   k12  set sockcreate con
+0x1d36f3   k12  remote entry
+0x1d3700   k12  pre call remote recvmsg
+0x1d3718   k12  create local socket
+0x1d372c   k12  send to remote
+0x1d373b   k12  remote recvmsg
+0x1d374a   k12  post call recvmsg
+0x1d375c   k12  failed to read proc
+0x1d3770   k12  remote recv fd failed!
+0x1d3787   k12  process {} not stopped, trying to interrupt to restore
+0x1d37a7   k12  o interrupt to restore
+0x1d37be   k12  ptrace_seize
+0x1d37cb   k12  attach wait
+0x1d37d7   k12  attach cont
+0x1d37e3   k12  wait for exec
+0x1d37f1   k12  ptrace_detach
+0x1d37ff   k12  re-seize wait
+0x1d380d   k12  {} received unexpected {}, skip!
+0x1d382e   k12  something wrong
+0x1d383e   k12  /data/adb/modules/zygisksu/lib64/libzygisk.so
+0x1d385e   k12  /libzygisk.so
+0x1d386c   k12  /data/adb/modules/zygisksu/lib64/libzn_loader.so
+0x1d388c   k12  /libzn_loader.so
+0x1d389d   k12  /data/adb/modules/zygisksu/lib64/libpayload.so
+0x1d38bd   k12  /libpayload.so
+0x1d38cc   k12  unknown state {}, not SIGTRAP + EVENT_EXEC
+0x1d38f7   k12   failed with 
+0x1d3905   k12  bad_function_call was thrown in -fno-exceptions mode
+0x1d3925   k12  -fno-exceptions mode
+0x1d393a   k12  invalid digit count
+0x1d397c   k12  invalid format specifier for char
+0x1d399e   k12  debug info:
+0x1d39bb   k12  failed to restore {}: {}
+0x1d39d4   k12  remote socket fd close failed: {}
+0x1d39f6   k12  remote lib fd close failed: {}
+0x1d3a15   k12  cleanup failed: {}
+0x1d3a45   k12  failed to detach {} failed with {}
+0x1d3a68   k12  failed to cont {} failed with {}
+0x1d3a8e   k8   mmap not found in libc
+0x1d3a93   k15  Z0=VmHSja#
+0x1d3aaf   k8   getauxval not found in libc
+0x1d3acb   k8   dl_iterate_phdr
+0x1d3adb   k8   dl_iterate_phdr not found in libdl
+0x1d3afe   k8   __dl_g_argc
+0x1d3b0a   k8   __dl_g_argc not found in linker
+0x1d3b2a   k8   __dl_g_argv
+0x1d3b36   k8   __dl_g_argv not found in linker
+0x1d3b56   k8   __dl_g_envp
+0x1d3b62   k8   __dl_g_envp not found in linker
+0x1d3b82   k8   __system_property_get
+0x1d3b98   k8   __system_property_get not found in libc
+0x1d3bdf   k8   __dl__ZL14g_libdl_symtab
+0x1d3bf8   k8   __dl__ZL15g_libdl_buckets
+0x1d3c12   k8   __dl__ZL14g_libdl_chains
+0x1d3c2b   k8   found legacy linker!
+0x1d3c40   k8   legacy linker symtab not found!
+0x1d3c60   k8   legacy linker buckets not found!
+0x1d3c81   k8   legacy linker chains not found!
+0x1d3ca1   k8   remote mmap get errno
+0x1d3cb7   k8   remote mmap failed
+0x1d3cca   k8   AllocSafeMemory mmap
+0x1d3cdf   k8   AllocSafeMemory GetRemoteErrno
+0x1d3cfe   k8   failed to find new addr
+0x1d3d16   k8   AllocSafeMemory: expected 0x{:x} got 0x{:x}
+0x1d3d42   k8   failed to parse self
+0x1d3d57   k8   no mmap base available
+0x1d3d6e   k8   allocate size=0
+0x1d3d88   k8   load symbols
+0x1d3d95   k8   zygisk_entry
+0x1d3dac   k8   /data/adb/zygisksu/experimental_hook
+0x1d3dd6   k8   /data/adb/zygisksu/no_check_companion_fd
+0x1d3dff   k8   check companion fd is disabled!
+0x1d3e1f   k8   push legacy linker info
+0x1d3e37   k8   remote return error: {}
+0x1d3e4f   k8   remote load base 0x{:x}
+0x1d3e67   k8   StopAndDump: {}
+0x1d3e77   k8   inject err: {}
+0x1d3e8d   k8   map seg {}
+0x1d3e98   k8   zeromap seg {}
+0x1d3f14   k17  OoWiz!beP2.e
+0x1d4198   k4   android_dlopen_ext
+0x1d41ab   k4   android_dlopen_ext not found in libdl
+0x1d41d7   k4   dlsym not found in libdl
+0x1d41f8   k4   dlerror not found in libdl
+0x1d4213   k4   zygisk-next
+0x1d421f   k4   handle is null
+0x1d422e   k4   RemoteLoad
+0x1d4239   k4   dlopen failed: {}
+0x1d424b   k4   create socket pair
+0x1d425e   k4   send zn service socket
+0x1d4275   k4   send server fd
+0x1d428d   k4   dlsym failed: {}
+0x1d42a5   k22  ** magisk_compat: create magisk stub
+0x1d42ca   k22  /data/adb/modules/zn_magisk_compat/system
+0x1d42f4   k22  /data/adb/modules/zn_magisk_compat/system/bin
+0x1d4314   k22  at/system/bin
+0x1d4322   k22  /data/adb/modules/zn_magisk_compat/system/bin/znctl
+0x1d4342   k22  at/system/bin/znctl
+0x1d4356   k22  /data/adb/modules/zygisksu/bin//data/adb/modules/zygisksu/bin/zy
+0x1d4376   k22  data/adb/modules/zygisksu/bin/zygiskd
+0x1d439c   k22  /data/adb/modules/zn_magisk_compat/module.prop
+0x1d43bc   k22  at/module.prop
+0x1d43cd   k22  id=zn_magisk_compat
+0x1d43ed   k22  gisk Compat}}
+0x1d440d   k22  versionCode=1
+0x1d4488   k22  ** magisk_compat: remove magisk stub
+0x1d44ad   k22  /data/adb/modules/zn_magisk_compat
+0x1d44d0   k22  /data/adb/modules/zn_magisk_compat/disable
+0x1d44f0   k22  at/disable
+0x1d44fb   k22  /data/adb/modules/zn_magisk_compat/remove
+0x1d4525   k22  /debug_ramdisk/.magisk/busybox/busybox
+0x1d454c   k22  /sbin/.magisk/busybox/busybox
+0x1d456a   k22  magisk busybox not found!
+0x1d4584   k22  /data/adb/magisk/busybox
+0x1d459d   k22  post-fs-data.sh
+0x1d45ad   k22  service.sh
+0x1d45b8   k22  ** magisk_compat: exec {} of zygisk modules
+0x1d45d8   k22  isk modules
+0x1d45e4   k22  fork failed with {}
+0x1d461a   k22  ** magisk_compat: {} scripts timeout!
+0x1d4640   k22  /data/adb/modules
+0x1d4652   k22  ** magisk_compat: open module root failed with {}
+0x1d4672   k22  ot failed with {}
+0x1d4689   k22  ** magisk_compat: open module {} failed with {}
+0x1d46a9   k22   failed with {}
+0x1d46cf   k22  ** magisk_compat: remove {} failed with {}
+0x1d46ef   k22  ed with {}
+0x1d46fa   k22  ** magisk_compat: remove dir: {} failed with {}
+0x1d471a   k22   failed with {}
+0x1d4731   k22  skip_mount
+0x1d473c   k22  ** magisk_compat: link {}
+0x1d4756   k22  /data/adb/modules/
+0x1d4771   k22  system.prop
+0x1d477d   k22  ** magisk_compat: add system.prop of {}
+0x1d47a7   k22  open prop failed with {}
+0x1d47c0   k22  /data/adb/modules/zn_magisk_compat/system.prop
+0x1d47e0   k22  at/system.prop
+0x1d47f1   k22  open out prop failed with {}
+0x1d480e   k22  ** magisk_compat: open {} failed with {}
+0x1d485e   k22  ** magisk_compat: mkdir {} failed with {}
+0x1d4888   k22  ** magisk_compat: unknown type {}: {}
+0x1d48ae   k22  ** magisk_compat: fork failed with {}
+0x1d48d4   k22  ** magisk_compat: exec {}
+0x1d48f1   k22  ** magisk_compat: failed to exec {} failed with {}
+0x1d4911   k22   {} failed with {}
+0x1d4924   k15  zn-nsdaemon-
+0x1d4931   k15  /proc/self/mountinfo
+0x1d4946   k15  ns-daemon open mountinfo failed with {}
+0x1d496e   k15  ns-daemon poll failed with {}
+0x1d498c   k15  ns-daemon: exit
+0x1d499c   k15  socketpair failed with {}
+0x1d49b6   k15  fork failed with {}
+0x1d49ca   k15  setns failed with {}
+0x1d49df   k15  /proc/self/exe
+0x1d49ee   k15  zn-nsdaemon
+0x1d4a03   k15  exec nsdaemon failed with {}
+0x1d4a20   k15  nscleaner for {} started
+0x1d4a39   k15  open mountinfo failed with {}
+0x1d5120   k10  ksu KSU_IOCTL_GET_INFO failed failed with {}
+0x1d5140   k10  iled with {}
+0x1d514d   k10  /data/adb/ksud
+0x1d515c   k10  ksu {} found in kernel but no ksud found, skip
+0x1d517c   k10  ud found, skip
+0x1d518b   k10  ksu uid_should_umount failed failed with {}
+0x1d51ab   k10  led with {}
+0x1d51b7   k10  ksu uid_should_umount failed
+0x1d51d4   k10  ksu uid_granted_root failed failed with {}
+0x1d51f4   k10  ed with {}
+0x1d51ff   k10  ksu uid_granted_root failed
+0x1d521b   k10  ksu CMD_GET_MANAGER_APPID failed failed with {}
+0x1d523b   k10   failed with {}
+0x1d524b   k10  ksu CMD_GET_MANAGER_UID failed
+0x1d5274   k10  /data/adb/ap/package_config
+0x1d529f   k10  truncate su -c 'echo Success'
+0x1d52c5   k10  /data/adb/apd -V
+0x1d52d6   k10  multiple versions: magisk={} ksu={} ap={}
+0x1d5308   k10  KernelSU (
+0x1d5325   k10  Multiple (
+0x1d5359   k10  exec_cmd: pipe failed with {}
+0x1d5377   k10  exec_cmd: fork failed with {}
+0x1d539f   k10  exec_cmd: dup stdout failed with {}
+0x1d53c3   k10  /system/bin/sh
+0x1d53db   k10  exec_cmd: exec {} failed with {}
+0x1d53fc   k2   /proc/self/exe
+0x1d540b   k2   open module dir {} failed with {}
+0x1d5440   k2   open machikado failed with {}
+0x1d5460   k2   verify1 failed
+0x1d5496   k2   open mazoku failed with {}
+0x1d54b1   k2   verify2 failed
+0x1d54c5   k2   ./machikado
+0x1d54db   k16  thread constructor failed
+0x1d54f5   k24  inject success!
+0x1d5505   k24  inject failed: {}
+0x1d5517   k24  ** do cleanup
+0x1d5525   k24  ** do restore
+0x1d5533   k24  !! init is not stopped, trying to interrupt init
+0x1d5553   k24  o interrupt init
+0x1d5564   k24  failed to interrupt init failed with {}
+0x1d5594   k24  restore {}
+0x1d559f   k24  detach failed with {}
+0x1d55b5   k24  dumping ctx {}
+0x1d55c7   k24  failed to open
+0x1d55d6   k24  failed to read
+0x1d55e5   k24  payload_base=0x{:x}
+0x1d563c   k24  execve_hook.target=0x{:x}
+0x1d565c   k24  _hook.hook=0x{:x}
+0x1d567c   k24  ampoline=0x{:x}
+0x1d56bc   k24  line_patch_addr=0x{:x}
+0x1d56dc   k24  .target=0x{:x}
+0x1d573c   k24  t_hook.trampoline_patch_addr=0x{:x}
+0x1d5761   k24  ./lib64/libpayload.so
+0x1d5777   k24  /dev/.zn_payload
+0x1d5788   k24  ** preparing payload ...
+0x1d57a1   k24  init libpayload.so
+0x1d57b4   k24  ** payload prepared
+0x1d57c8   k24  ** attaching init ...
+0x1d57e7   k24  ptrace_interrupt
+0x1d57f8   k24  get orig sigmask failed with {}
+0x1d5818   k24  block all sigmask failed with {}
+0x1d5832   k20  GwIeg+@mrB
+0x1d5839   k24  ** init attached
+0x1d584a   k24  ** loading payload ...
+0x1d5861   k24  open payload src
+0x1d5872   k24  open payload
+0x1d587f   k24  read payload
+0x1d588c   k24  write payload
+0x1d589a   k24  set system con
+0x1d58a9   k24  u:r:init:s0
+0x1d58b5   k24  set sockcreate con
+0x1d58c8   k24  send lib fd
+0x1d58d4   k24  inject_execve_monitor
+0x1d58ea   k24  libpayload base: {:x}
+0x1d5900   k24  ** payload loaded
+0x1d5912   k24  ** setting up payload ...
+0x1d592c   k24  daemon_addr
+0x1d5941   k24  failed to write path addr
+0x1d595b   k24  ** payload has been setup
+0x1d5975   k24  ** inline hook prepare ...
+0x1d5990   k24  find addrs
+0x1d59ab   k24  could not find execve/execveat
+0x1d59ca   k24  could not find wait
+0x1d59de   k24  my_execveat
+0x1d5a03   k24  hook wait4
+0x1d5a13   k24  remote mmap
+0x1d5a1f   k24  remote socket
+0x1d5a2d   k24  remote bind
+0x1d5a39   k24  create local socket
+0x1d5a4d   k24  send to remote
+0x1d5a5c   k24  failed to read hdr
+0x1d5a6f   k24  failed to read proc
+0x1d5a83   k24  remote recv fd failed!
+0x1d5a9a   k24  remote recvmsg
+0x1d5aa9   k24  /dev/.zn_helper
+0x1d5ab9   k24  create helper fd
+0x1d5aca   k24  set helper fd sys con failed with {}
+0x1d5aef   k24  /proc/self/fd/{}
+0x1d5b00   k24  create_helper_fd
+0x1d5b11   k24  allocate size=0
+0x1d5b2b   k24  map seg {}
+0x1d5b36   k24  zeromap seg {}
+0x1d5b45   k24  /proc/1/exe
+0x1d5b51   k24  stat /proc/1/exe failed with {}
+0x1d5b71   k24  initialize /proc/1/exe
+0x1d5b88   k24  can not load libc
+0x1d5b9a   k24  execve/execveat not found
+0x1d5bb4   k24  wait4 not found
+0x1d5bc4   k24  ** using vphone compat
+0x1d5bf2   k24  *** prepare trampoline
+0x1d5c09   k24  failed to map near
+0x1d5c28   k24  ** inline hook commit
+0x1d5c3e   k24  failed to write trampoline
+0x1d5c59   k24  failed to patch
+0x1d5c69   k24  {} hook installed
+0x1d5c7b   k24  truncate helper_fd {} failed with {}
+0x1d5cc7   k24  could not find map near from={} to={} sz={}
+0x1d5cfb   k24  close remote helper fd: {}
+0x1d5d16   k24  close remote lib fd: {}
+0x1d5d2e   k24  close remote socket fd: {}
+0x1d5d49   k24  unmap tmp mem: {}
+0x1d5d5b   k24  restore sigmask failed with {}
+0x1d5d7a   k24  remote close
+0x1d5d87   k24  remote munmap
+0x1d5d95   k24  /data/adb/zygisksu
+0x1d5da8   k24  /data/adb/zygisksu/znctx
+0x1d5dc3   k24  dump znctx to /data/adb/zygisksu/znctx failed with {}
+0x1d5de3   k24  /znctx failed with {}
+0x1d5df9   k24  dump write znctx to /data/adb/zygisksu/znctx failed with {}
+0x1d5e19   k24  gisksu/znctx failed with {}
+0x1d5e40   k3   ./bin/zygiskd64
+0x1d5e50   k3   ./bin/zygiskd32
+0x1d5e60   k3   failed to fork injector failed with {}
+0x1d5e9f   k3   failed to run injector failed with {}
+0x1d5ec5   k3   ** inject success for {}
+0x1d5f05   k3   failed to write {} to {} failed with {}
+0x1d5f3a   k3   /data/adb/zygisksu/.abort_msg
+0x1d5f58   k3   failed to write abort message failed with {}
+0x1d5f78   k3   iled with {}
+0x1d5f85   k3   ro.product.cpu.abilist32
+0x1d5f95   k29  9"DqlIivgd
+0x1d5f9e   k3   arm64-v8a (primary)
+0x1d5fb2   k3   , armeabi-v7a (tango)
+0x1d5fc8   k3   , armeabi-v7a
+0x1d5fd6   k3   version_local:{}
+0x1d5ffa   k3   android_sdk:{}
+0x1d600a   k3   failed to connect to server
+0x1d6053   k3   version:{}
+0x1d605f   k3   zygote_states:{}
+0x1d6093   k3   zygisk_jni_err_{}:{}
+0x1d60a9   k3   inject_state:{}
+0x1d60ba   k3   root_status:{}
+0x1d60ca   k3   denylist_policy:{}
+0x1d60de   k3   enforce_denylist:{}
+0x1d60f3   k3   memory_type:{}
+0x1d610e   k3   hook_mode:{}
+0x1d611c   k3   root_impl:{}
+0x1d612a   k3   root_ver:{}
+0x1d6137   k3   modules64:{}
+0x1d6148   k3   modules32:{}
+0x1d6155   k3   modules_with_issue:{}
+0x1d616b   k3   /data/adb/zygisksu/.injecting
+0x1d6189   k3   u:r:init:s0
+0x1d6195   k3   u:r:zygote:s0
+0x1d61a3   k3   permission denied
+0x1d61be   k3   unknown action={} from uid={} pid={} sctx={}
+0x1d61eb   k3   error occurred while handling connection of action=({}) {} uid={
+0x1d6254   k3   poll failed with {}
+0x1d6268   k3   accept failed with {}
+0x1d627e   k3   /data/adb/modules
+0x1d6290   k3   open module root failed with {}
+0x1d62c7   k3   Zygisk Next Daemon {}
+0x1d62dd   k3   Kernel: {}
+0x1d6303   k3   /data/adb/modules/zygisksu/disable
+0x1d6326   k3   last failure detected, abort!
+0x1d635f   k3   failed to inject init
+0x1d63a5   k3   create daemon fork failed with {}
+0x1d63c7   k3   ** daemon launched
+0x1d63da   k3   logd start failed
+0x1d63f9   k3   ** stop klog
+0x1d6406   k3   ** write prop
+0x1d6414   k3   /data/adb/modules/zygisksu/module.prop
+0x1d643b   k3   prop file failed with {}
+0x1d6463   k3   uname failed with {}
+0x1d6482   k3   ro.build.version.sdk
+0x1d6497   k3   /proc/1/root/
+0x1d64b6   k3   got status -1
+0x1d64c4   k3   NewInitProcess
+0x1d64d3   k3   NewDeadProcess
+0x1d64fc   k3   SetDenylistPolicy
+0x1d650e   k3   GetDenylist
+0x1d651a   k3   SetEnforceDenylist
+0x1d652d   k3   SetMemoryType
+0x1d653b   k3   GetMemoryType
+0x1d655d   k3   DisableZygisk
+0x1d656b   k3   DumpZnModules
+0x1d6579   k3   SetZnModules
+0x1d6586   k3   GetRootImpl
+0x1d6592   k3   SetHookMode
+0x1d659e   k3   GetUidFlags
+0x1d65aa   k3   ReadModules
+0x1d65b6   k3   RequestCompanionSocket
+0x1d65cd   k3   GetModuleDir
+0x1d65da   k3   ZygiskReport
+0x1d65e7   k3   ReportModuleIssue
+0x1d65f9   k3   PutCleanNs
+0x1d6604   k3   GetCleanNs
+0x1d660f   k3   UnshareLock
+0x1d661b   k3   failed to initialize magic!
+0x1d6637   k3   ./module.prop.orig
+0x1d664a   k3   failed to open orig prop failed with {}
+0x1d668d   k3   /data/adb/zygisksu/mount_znctl
+0x1d66ac   k3   /system/bin/stub_zygote
+0x1d66c4   k3   stub_zygote detected
+0x1d66d9   k3   description=
+0x1d66e6   k3   zn_zygote_
+0x1d66f1   k3   create zygote socket
+0x1d670f   k3   create init socket
+0x1d6722   k23  Companion request from pid={} uid={} sctx={} conn_id={}: conn no
+0x1d6742   k23  d={} sctx={} conn_id={}: conn not found
+0x1d676a   k23  Companion request from pid={} uid={} sctx={} conn_id={}: invalid
+0x1d678a   k23  d={} sctx={} conn_id={}: invalid mod id {} while requesting
+0x1d67aa   k23   mod id {} while requesting
+0x1d67c6   k23  Companion request from pid={} uid={} sctx={} conn_id={}: request
+0x1d67e6   k23  d={} sctx={} conn_id={}: requesting companion for mod {} but it 
+0x1d6806   k23  ing companion for mod {} but it doesn't have companion
+0x1d6826   k23  doesn't have companion
+0x1d683f   k23  ** spawn zn companion {}
+0x1d6858   k23  zn-companion
+0x1d6865   k23  failed to spawn companion for zn module {}
+0x1d6885   k23   module {}
+0x1d6890   k23  Companion request from pid={} uid={} sctx={} conn_id={}: compani
+0x1d68b0   k23  d={} sctx={} conn_id={}: companion create failed
+0x1d68d0   k23  on create failed
+0x1d68e1   k23  unsupported service: {}
+0x1d68f9   k23  loading module into {} {}
+0x1d6913   k23  process not cleaned: {} {}
+0x1d692e   k23  create socket pair failed with {}
+0x1d6950   k23  service-injector
+0x1d6961   k23  set systemcon of module {} failed with {}
+0x1d698b   k23  inject service failed
+0x1d69a1   k23  injected process died: pid={} status={} dc={}
+0x1d69cf   k23  injected process {} crashed too many times, disable injection
+0x1d69ef   k23  many times, disable injection
+0x1d6a0f   k23  set status of service {} to {}
+0x1d6a40   k23  set status of module lib {} of service {} to {}
+0x1d6a71   k23  set status of module lib {} to {}
+0x1d6a94   k23  {} modules to reload
+0x1d6aaa   k23  open module {} failed with {}
+0x1d6ac8   k23  dup module {} failed with {}
+0x1d6ae5   k23  Reload module {}: {}
+0x1d6b0a   k23  {"modules":[
+0x1d6b1e   k23  ,"processes":[
+0x1d6b59   k23  Modules: {}
+0x1d6b66   k23   name={} path={} enabled={} scope count={}
+0x1d6b86   k23  e count={}
+0x1d6bbb   k23  Found Services: {}
+0x1d6bcf   k23   path={} no modules
+0x1d6be4   k23   path={} modules={}:
+0x1d6c11   k23    can_load={} death_count={}
+0x1d6c2e   k23   last_death={:+}ms ago
+0x1d6c45   k23  Injected Processes: {}
+0x1d6c85   k23    module {}:{} status={} has_companion={}
+0x1d6cb0   k23  Injected Processes Connections: {}
+0x1d6cf1   k23  Dead Processes (Most Recent 10): {}
+0x1d6d62   k23  zn_modules.txt
+0x1d6d73   k23  loading zn modules
+0x1d6d86   k23  loaded {} zn modules
+0x1d6d9b   k23   service(s) injected
+0x1d6db7   k23  /data/adb/modules/
+0x1d6de2   k23  incompatiable
+0x1d6dfc   k23  invalid filter type, should be path either name
+0x1d6e1c   k23  ath either name
+0x1d6e2c   k23  empty filter
+0x1d6e39   k23  /system_ext/bin/hyos_spawner
+0x1d6e56   k23  hyos_spawner
+0x1d6e6d   k23  invalid module lib: {} which does not belongs to its module dir
+0x1d6e8d   k23  s not belongs to its module dir
+0x1d6ead   k23  find lib {} of module {} failed with {}
+0x1d6ed5   k23  add module {} lib {} scope filter {}={}
+0x1d6efd   k23  unrecognized line in module {}: '{}'
+0x1d6f41   k18  restart detected, reset launch count
+0x1d6f66   k18  /system/bin/app_process
+0x1d6f7e   k18  /system/bin/stub_zygote
+0x1d6f96   k18  unknown architecture of app_process: {}
+0x1d6fbe   k18  stub-zygote-injector
+0x1d6fd3   k18  inject stub_zygote %d success
+0x1d6ff1   k18  inject stub_zygote %d failed
+0x1d700e   k18  --socket-name=
+0x1d701d   k18  app_process {} {} has no socket name?
+0x1d704a   k18  ** new zygote process: {} {} name={}
+0x1d706f   k18  new zygote {} launched but old zygote {}'s dead is not detected!
+0x1d708f   k18  ygote {}'s dead is not detected!
+0x1d70b0   k18  skip zygote {}
+0x1d70bf   k18  zygote-injector
+0x1d70cf   k18  nscleaner start failed!
+0x1d70e7   k18  unknown pid for zygisk request: {}
+0x1d710a   k18  invalid module index {}
+0x1d7122   k18  zygisk-companion
+0x1d7133   k18  failed to spawn companion for {}
+0x1d714c   k35  7Y%Ax(5MuV
+0x1d7154   k18  failed to send companion fd socket to module {}
+0x1d7174   k18  et to module {}
+0x1d7184   k18  /data/adb/modules/
+0x1d7197   k18  invalid pid report zygisk: {}
+0x1d71b5   k18  zygote {} hook status: {}
+0x1d71cf   k18  zygote {} jni method not found: {}
+0x1d71f2   k18  isolated uid has no data dir: {}
+0x1d7213   k18  stat {} for {} failed with {}
+0x1d7231   k18  zygisk/arm64-v8a.so
+0x1d7245   k18  zygisk/armeabi-v7a.so
+0x1d725b   k18  open {}/{} failed with {}
+0x1d7275   k18  set systemcon of zygisk lib {}/{}
+0x1d7297   k18  stat {}/{} failed with {}
+0x1d72b1   k18  not regular file: {}/{}
+0x1d72c9   k18  failed to init elf of zygisk module {}/{}
+0x1d7313   k18  n action to get bugreport
+0x1d734a   k18  Zygisk stopped
+0x1d7359   k18  Zygisk disabled
+0x1d7389   k18  sk of magisk
+0x1d73b4   k18  User requested to exit Zygisk Next!
+0x1d73f4   k18  /data/adb/zygisksu/experimental_hook
+0x1d7419   k18  u:r:zygote:s0
+0x1d7427   k18  permission denied
+0x1d7439   k18  /data/adb/zygisksu/modules_info
+0x1d748b   k18  write module info failed with {}
+0x1d74ac   k18  magisk zygisk enabled, zygisk next's zygisk will not work!
+0x1d74cc   k18  xt's zygisk will not work!
+0x1d74e7   k18  /data/adb/zygisksu/zygisk_disabled
+0x1d750a   k18  ** zygisk disabled!
+0x1d751e   k18  /data/adb/zygisksu/denylist_policy
+0x1d7541   k18  ** denylist policy: {}
+0x1d7558   k18  /data/adb/zygisksu/denylist_enforce
+0x1d757c   k18  ** denylist enforce mode: {}
+0x1d7599   k18  /data/adb/zygisksu/memory_type
+0x1d75b8   k18  ** memory type: {}
+0x1d75cb   k18  /data/adb/zygisksu/linker
+0x1d75e5   k18  ** linker mode: {}
+0x1d75f8   k18  /data/tombstones
+0x1d7609   k18  zygote {} died, temporarily disable anonymous memory for next re
+0x1d7629   k18  ble anonymous memory for next repro
+0x1d764d   k18  /data/adb/zygisksu/bugreports
+0x1d766b   k18  failed to create bugreport dir {}
+0x1d769d   k18  open bugreport {} failed with {}
+0x1d76e1   k18  scan_window=1m report_time={}
+0x1d7700   k18  memory_type={} temporary_switch_to_default={}
+0x1d7720   k18  to_default={}
+0x1d7740   k18  timestamp={} signal={}
+0x1d7758   k18  pid={} ppid={} tid={} process={} cmdline={} app_name={}
+0x1d7778   k18   cmdline={} app_name={}
+0x1d7791   k18  modules={}
+0x1d77d4   k18  nd in the last 1 minute
+0x1d77ed   k18  zygote bugreport written to {}
+0x1d780c   k18  module {} appeared in crashing process {} backtrace
+0x1d782c   k18  rocess {} backtrace
+0x1d785e   k18  /dev/.zn_unshare_lock
+0x1d7874   k18  remove unshare lock file failed with {}
+0x1d789c   k18  open unshare lock file failed with {}
+0x1d78c2   k18  u:object_r:unshare_lock_file:s0
+0x1d78e2   k18  set unshare lock context failed with {}
+0x1d790a   k18  dup elf fd failed with {}
+0x1d7927   k18  read elf header failed
+0x1d7967   k18  denylist policy is only supported in Magisk
+0x1d7987   k18  d in Magisk
+0x1d7993   k18  denylist policy set to {}
+0x1d79ad   k18  denylist enforce mode set to {}
+0x1d79cd   k18  memory type set to {}
+0x1d79e3   k18  linker mode set to {}
+0x1d7a0f   k18  loading {}bit zygisk modules
+0x1d7a2c   k18  loaded {} {}bit zygisk module(s)
+0x1d7a45   k35  sJ&Vp aMiN
+0x1d7a4d   k18  zygisk_shamiko
+0x1d7a5c   k18  skip shamiko
+0x1d7a69   k18  loaded {}bit zygisk module {}
+0x1d7a87   k18  failed to load {}bit zygisk module {}
+0x1d7aad   k18  /data/adb/zygisksu/bugreports.old
+0x1d7acf   k18  rotate bugreport dir {} to {} failed with {}
+0x1d7aef   k18  iled with {}
+0x1d7afc   k18  stat bugreport dir {} failed with {}
+0x1d7b21   k18  stat bugreport path {} failed with {}
+0x1d7b47   k18  remove bugreport path {} failed with {}
+0x1d7b6f   k18  open bugreport dir {} failed with {}
+0x1d7b9f   k18  remove bugreport dir {} failed with {}
+0x1d7bc6   k6   invalid addr
+0x1d7bd3   k6   invalid sz
+0x1d7bde   k6   invalid mem
+0x1d7c1c   k6   memfd_create failed with {}
+0x1d7c38   k6   /dev/.zn_helper_fd
+0x1d7c4b   k6   create helper fd failed with {}
+0x1d7c6b   k6   remove helper fd failed with {}
+0x1d7c8b   k6   truncate fd sz {} failed with {}
+0x1d7cac   k6   set system con failed with {}
+0x1d7cca   k6   /proc/self/fd/{}
+0x1d7cdb   k6   open ro fd failed with {}
+0x1d7cf5   k6   invalid request {}
+0x1d7d08   k6   recvmsg failed with {}
+0x1d7d1f   k6   invalid SCM_RIGHTS len: {}, expected {}
+0x1d7d47   k6   closing invalid fd {}
+0x1d7d5d   k6   no cred or secctx
+0x1d7d6f   k6   cmsg maybe truncated
+0x1d7d8a   k6   zn_global_
+0x1d7d95   k6   u:r:logd:s0
+0x1d7da1   k6   create global socket
+0x1d7db6   k6   enable passcred on any failed with {}
+0x1d7ddc   k6   enable passsec on any failed with {}
+0x1d7ec0   k11  zn_zygote_{}
+0x1d7ecd   k11  connect daemon failed with {}
+0x1d7eeb   k11  GetUidFlags failed
+0x1d7efe   k11  ReadModules failed
+0x1d7f11   k11  ConnectCompanion failed
+0x1d7f29   k11  GetModuleDir failed
+0x1d7f3d   k11  Start failed
+0x1d7f4a   k11  Stop failed
+0x1d7f56   k11  Exit failed
+0x1d7f62   k11  SetDenylistPolicy failed
+0x1d7f7b   k11  GetDenylist failed
+0x1d7f8e   k11  SetEnforceDenylist failed
+0x1d7fa8   k11  SetMemoryType failed
+0x1d7fbd   k11  GetMemoryType failed
+0x1d7fd2   k11  SetLinker failed
+0x1d7fe3   k11  GetLinker failed
+0x1d7ff4   k11  PutCleanNs failed
+0x1d8006   k11  GetCleanNs failed
+0x1d8018   k11  release unshare file lock failed with {}
+0x1d8041   k11  get unshare lock fd failed
+0x1d805c   k11  acquire unshare file lock failed with {}
+0x1d8085   k11  DisableZygisk failed
+0x1d809a   k11  DumpZnModules failed
+0x1d80af   k11  GetRootImpl failed
+0x1d80c2   k11  SetHookMode failed
+0x1d80d5   k11  ZygiskHookReport failed
+0x1d80ed   k11  ZygiskJniNotFoundReport failed
+0x1d810c   k11  ReportModuleIssue failed
+0x1d8125   k11  zn_global_{}
+0x1d8132   k11  create pipe failed with {}
+0x1d814d   k11  sendmsg failed with {}
+0x1d8164   k11  remote WriteProc failed
+0x1d817c   k11  WriteProc failed
+0x1d818d   k11  remote RequestExecMemHelperFd failed
+0x1d81b2   k11  RequestExecMemHelperFd failed
+0x1d81d0   k11  ZnServiceRequestCompanion failed
+0x1d8216   k19  /proc/{}/mountinfo
+0x1d8229   k19  security.selinux
+0x1d823a   k19  getfilecon {} failed with {}
+0x1d8257   k19  filecon too big ({})
+0x1d826c   k19  real_path {} failed with {}
+0x1d8288   k19  create_dir {} failed with {}
+0x1d82a5   k19  create_dirs {} failed
+0x1d82bb   k19  opendir {} failed with {}
+0x1d82d5   k19  fdopendir {} failed with {}
+0x1d82f1   k19  fopen {} failed with {}
+0x1d8309   k19  fdopen {} failed with {}
+0x1d837f   k19  propagate_from:
+0x1d83c9   k17  /data/adb/
+0x1d83d4   k17  cleanns pipe failed with {}
+0x1d83f0   k17  cleanns fork failed with {}
+0x1d840c   k17  /proc/{}/mounts
+0x1d841c   k17  mntbuf cleaned
+0x1d842b   k17  cleanns mntent failed with {}
+0x1d8449   k17  cleanns wait failed with {}
+0x1d8465   k17  cleanns failed
+0x1d8474   k17  cleanns unshare failed with {}
+0x1d8493   k17  cleanns open fd failed with {}
+0x1d84b2   k17  /data/adb/modules
+0x1d84d2   k17  Unmounted ({})
+0x1d84ed   k26  failed to create log socket: %d
+0x1d850d   k26  failed to connect log socket: %d
+0x1d8534   k26  failed to write socket: %d
+0x1d8580   k5   0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ
+0x1d85a0   k5   wxyzABCDEFGHIJKLMNOPQRSTUVWXYZ
+0x1d85bf   k5   /dev/urandom
+0x1d85d6   k5   /data/adb/zygisksu/.magic
+0x1d85f3   k5   failed to read magic failed with {}
+0x1d8617   k5   {} not found failed with {}
+0x1d8633   k5   failed to generate magic
+0x1d864f   k5   failed to write magic failed with {}
+0x1d8674   k5   {} failed to create failed with {}
+0x1d8697   k5   {} /dev/urandom failed with {}
+0x1d86c8   k33  selinux support is disabled explicitly
+0x1d86ef   k33  /sys/fs/selinux
+0x1d86ff   k33  selinuxfs not detected, disable selinux feature!
+0x1d871f   k33  selinux feature!
+0x1d8741   k33  execveat: could not open {} failed with {}
+0x1d8761   k33  ed with {}
+0x1d8773   k9   get peercred failed with {}
+0x1d878f   k9   get peersec failed with {}
+0x1d87aa   k9   read failed with {}
+0x1d87dd   k9   write failed with {}
+0x1d8812   k9   recvmsg failed with {}
+0x1d8829   k9   sendmsg failed with {}
+0x1d8840   k9   too big string to read: {}
+0x1d885b   k9   too big string to write: {}
+0x1d8877   k9   /proc/thread-self/attr/sockcreate
+0x1d8899   k9   /proc/{}/attr/sockcreate
+0x1d88b2   k9   set socket con failed with {}
+0x1d88d0   k9   getfd failed with {}
+0x1d88e5   k9   setfd failed with {}
+0x1d88fa   k9   too long path {}
+0x1d890b   k9   create abstract {} failed with {}
+0x1d892d   k9   bind {} failed with {}
+0x1d8944   k9   listen socket failed with {}
+0x1d8961   k9   connect {} failed with {}
+0x1d897b   k9   recv_fd: msg_flags = {}, msg_controllen({}) != {}
+0x1d89ad   k9   recv_fd: cmsg == nullptr
+0x1d89e2   k9   recv_fd: cmsg_level != SOL_SOCKET
+0x1d8a04   k9   recv_fd: cmsg_type != SCM_RIGHTS
+0x1d8a48   k14  parse base 0
+0x1d8a55   k14  wrong size
+0x1d8a60   k14  verify elf header
+0x1d8a8a   k14  .gnu_debugdata
+0x1d8a99   k14  failed to initialize gnu_debugdata
+0x1d8abc   k14  elf_parser: stat {} failed with {}
+0x1d8adf   k14  elf_parser: mmap {} failed with {}
+0x1d8b02   k14  no plt addr for {}
+0x1d8b21   k14  unxz error: {}
+0x1d8b30   k14  elf_parser: open {} failed with {}
+0x1d8b7e   k21  open maps failed with {}
+0x1d8baf   k36  it_axrayd.te
+0x1d8bc8   k36  .andxoidJide
+0x1d8bce   k36  id.inentd.go
+0x1d8bfc   k36  rameUhdrd.gn
+0x1d8c0b   k36  ersien_rd.in
+0x1d8c20   k36  a.ref.rod.re
+0x1d8c37   k36  .veryiond.dy
+0x1d8c49   k36  gnu.bashd.re
+0x1d8c58   k36  _padningd.eh
+0x1d8c62   k36  eh_fxamed__l
+0x1d8c72   k36  overxided.no
+0x1d8c85   k36  builn-idd.dy
+0x1d8c8e   k36  .dynkmicd.sh
+0x1d8c98   k36  shstxtabd.ro

@@ -39,7 +39,7 @@ This research does **not** assume or claim malicious behavior. The goal is to in
 2. **The full architecture is understood and matches what a Zygisk implementation must do.** `zygiskd` is a local privileged daemon; it **`ptrace`-seizes `init` (PID 1), injects `libpayload.so`, inline-hooks `execve`/`execveat`** in order to observe process creation and inject `libzygisk.so` into zygote/app processes. This is the documented Zygisk injection mechanism, not hidden behavior. → [02-architecture-and-behavior.md](02-architecture-and-behavior.md)
 
 3. **The obfuscation is string encryption only.** 38 XOR keys, all recovered and stored in plain `.rodata`/`.data` key tables inside each binary. There is no virtualization, no packing, no anti-disassembly, no network-loaded payload. → [04-string-crypto-method.md](04-string-crypto-method.md)
--
+
 4. **Root-solution integration is explicit and benign**: detection of Magisk / KernelSU / APatch, a Magisk-compatibility stub module, denylist/unshare (mount-namespace) handling, and `bugreports` written to `/data/adb/zygisksu/bugreports` — all local. → [05-behavior-evidence-catalog.md](05-behavior-evidence-catalog.md)
 
 5. **The "HyperOS Rust Runtime" strings are a documented feature**, not an anomaly: the official v1.5.0 release notes list *"Adds HyperOS Runtime support"*. → [01-provenance-and-integrity.md](01-provenance-and-integrity.md)
@@ -54,7 +54,9 @@ This research does **not** assume or claim malicious behavior. The goal is to in
 | [04-string-crypto-method.md](04-string-crypto-method.md) | The XOR obfuscation, the 38 keys, and how plaintext was recovered |
 | [05-behavior-evidence-catalog.md](05-behavior-evidence-catalog.md) | Catalog of notable behaviors with decrypted-string evidence |
 | [06-limitations-and-next-steps.md](06-limitations-and-next-steps.md) | **What this analysis does *not* prove**, and what to do next |
+| [07-pseudocode-walkthrough.md](07-pseudocode-walkthrough.md) | **How to read the cleaned pseudocode**, and a guide to the exhibit |
 | [`artifacts/`](artifacts/) | Decrypted string table for each of the 15 binaries, plus [`recovered-keys.txt`](artifacts/recovered-keys.txt) and [`summary.json`](artifacts/summary.json) |
+| [`artifacts/pseudocode/`](artifacts/pseudocode/) | **Readable, cleaned C pseudocode** — 28 key functions with string literals restored |
 
 ## If you wanna contribute
 
@@ -74,3 +76,6 @@ The absence of identified security issues or malicious behavior does **not** gua
 
 The module ships a remote update channel (`updateJson`), so a clean build today does not imply future builds are clean. Read [06-limitations-and-next-steps.md](06-limitations-and-next-steps.md) before drawing a conclusion.
 
+## Stay Tuned
+
+**Research is ongoing.**

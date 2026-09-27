@@ -1,0 +1,664 @@
+0xa82      k36  r_atlorkdzyg
+0xa8f      k36  sk_edtryd__a
+0xaa3      k36  og_cfosedpth
+0xab6      k36  tex_fockdpth
+0xacb      k36  x_unfockdmun
+0xb42      k36  d_croatedpth
+0xb62      k36  openUextddle
+0xb79      k36  mpro~ectdset
+0xb8c      k36  emptssetdsig
+0xb96      k36  igadnsetdsig
+0xba2      k36  procgaskdope
+0xbc1      k36  adlidkatdacc
+0xbd6      k36  closodirdpos
+0xbe5      k36  memafigndsys
+0xbff      k36  ond_}aitdpth
+0xc16      k36  roadiastd__a
+0xc2a      k36  og_pxintd__a
+0xc3f      k36  g_vpxintd__a
+0xc53      k36  og_wxitedand
+0xc6d      k36  _mesyagedabo
+0xc7e      k36  cketzairdsen
+0xc9c      k36  etmn~entdget
+0xca6      k36  etmn~entdfse
+0xcb6      k36  ndmn~entdwai
+0xcf6      k36  _des~roydsta
+0xd11      k36  speccficdpth
+0xd24      k36  y_croatedpth
+0xd38      k36  speccficdpth
+0xd45      k36  ead_yelfdpre
+0xd60      k36  y_defetedpth
+0xd6d      k36  ead_encedlib
+0xd76      k36  libdf.sodLIB
+0xd8d      k36  iblom.sodlib
+0xd9f      k36  ibzymiskJso
+0x2fc4     k36   vir~ualDfun
+0x2fcd     k36  func~ionDcal
+0x2fd5     k36   calfed!dblo
+0x2fe1     k36  ck_scze_D!= 
+0x2fe4     k36  sizeU !=D0
+0x2ff0     k36  s facledDto 
+0x2ff3     k36  ailen toDrel
+0x2ffb     k36   reloaseDmut
+0x300d     k36  llocktordro.
+0x301f     k36  ad_aflocDwas
+0x3023     k36  lloc*wasDthr
+0x302a     k36  s thxownDin 
+0x302d     k36  hrowd inD-fn
+0x302e     k36  rown*in Ifno
+0x3032     k36   in 'fnoIexc
+0x303d     k36  ceptconsDmod
+0x3042     k36  ons goded%s 
+0x304c     k36  s facledDto 
+0x304f     k36  ailen toDacq
+0x306d     k36   poidterD%p 
+0x306e     k36  poin~er Ap (
+0x3070     k36  intex %pD(pa
+0x3071     k36  nter*%p Lpag
+0x3076     k36  %p (zageDsig
+0x3080     k36  igna~ureD%04
+0x3082     k36  natuxe %T4x 
+0x3083     k36  aturo %0Px i
+0x3085     k36  ure /04xDins
+0x308d     k36   ins~eadDof 
+0x3090     k36  stean ofD%04
+0x3091     k36  tead*of A04x
+0x3092     k36  ead ef %T4x)
+0x30a0     k36  exynes98U0
+0x30a2     k36  ynos3810dpag
+0x30b8     k36  ock_fistD!= 
+0x30ba     k36  k_liyt !Y nu
+0x30bb     k36  _lis~ !=Dnul
+0x30c3     k36   nulfptrdall
+0x30d6     k36   faifed:D%m
+0x30d7     k36  failod: Am
+0x30d9     k36  iled0 %mdove
+0x30e2     k36  overllowDtry
+0x30e9     k36  w trsingDto 
+0x30ec     k36  ryinm toDall
+0x30f2     k36  to aflocD%zu
+0x30f3     k36  o alfoc Azu 
+0x30f6     k36  lloc*%zuDbyt
+0x30fc     k36  zu bstesd%s:
+0x3110     k36  HECK*'%sC fa
+0x3111     k36  ECK -%s'Dfai
+0x3118     k36  ' facleddbio
+0x3129     k36  llocktorJcpp
+0x3144     k36  _objoctsdsys
+0x3151     k36  em_exrorDwas
+0x3155     k36  rror*wasDthr
+0x315c     k36  s thxownDin 
+0x315f     k36  hrowd inD-fn
+0x3160     k36  rown*in Ifno
+0x3164     k36   in 'fnoIexc
+0x316f     k36  ceptconsDmod
+0x3174     k36  ons godeDwit
+0x3179     k36  ode }ithDerr
+0x317f     k36  th exrorD%i 
+0x3180     k36  h erxor Ai a
+0x3182     k36  errox %iDand
+0x3186     k36  r %i*andDmes
+0x318e     k36   mesyageD"%s
+0x318f     k36  messkge F%s"
+0x3190     k36  essame "As"
+0x31b0     k36  deteitedDrec
+0x31ba     k36  ecuryiveDini
+0x31ca     k36  izatcon:Ddo 
+0x31cd     k36  tion0 doDyou
+0x31d1     k36  : do*youDhav
+0x31d6     k36  you baveDa f
+0x31e1     k36  func~ionIloc
+0x31e7     k36  on-lecalDsta
+0x31ee     k36  l stkticDvar
+0x31f7     k36  varikbleDwho
+0x31fd     k36  le wboseDini
+0x320c     k36  liza~ionDdep
+0x3214     k36   depondsDon 
+0x3217     k36  pendy onDtha
+0x321c     k36   on ~hatDfun
+0x3226     k36  unctcon?d%s 
+0x3230     k36  s facledDto 
+0x3233     k36  ailen toDbro
+0x323d     k36  roadiastdinv
+0x324e     k36  poin~er:D%p 
+0x324f     k36  ointor: Ap (
+0x3251     k36  nter0 %pD(bl
+0x3252     k36  ter:*%p Lblo
+0x325d     k36  ock_yizeY%zd
+0x325e     k36  ck_scze=Azd)
+0x3262     k36  ize=/zd)dinv
+0x3270     k36  id tspe:D%u
+0x3271     k36  d tyze: Au
+0x3273     k36  type0 %udinv
+0x3283     k36   poidterD%p 
+0x3284     k36  poin~er Ap (
+0x3286     k36  intex %pD(in
+0x3287     k36  nter*%p Linv
+0x328f     k36  (invklidDall
+0x3299     k36  llocktorDadd
+0x32a1     k36   addxessDfor
+0x32a5     k36  ress*forDthe
+0x32a9     k36   for*theDpag
+0x32af     k36  he pkge)dzn_
+0x2753a    k13  *U@uVdRegW
+0x286a5    k23  vHp4H/4=eJ
+0x2b7a3    k5   yFu 7aYhjkX
+0x2bbdb    k5   yf(17aYhjkX
+0x2bc9b    k5   yF>:7aYhjkX
+0x2bd5b    k5   yf4#7aYhjkX
+0x2bf03    k5   y&3?7aYhjkX
+0x2bf5f    k5   yFB77aYhjkX
+0x2c12b    k5   y&X 7aYhjkX
+0x2c81b    k5   yfu!7aYhjkX
+0x2c863    k5   yF()7aYhjkX
+0x2d158    k16  =Co{1yoN4t
+0x2d3e4    k37  hgKwX=e,xG
+0x2d470    k37  hTBw5=e,x{
+0x2d673    k5   y&Z?7aYhjkX
+0x2e064    k37  iGmWIc-I/19Z<<0g
+0x2eee7    k5   yF=(7aYhjkX
+0x2f799    k23  vHp4l/4=eJ
+0x2fc80    k37  HfAw=7e,X>p
+0x301d3    k5   yFZ"7aYhjkX
+0x335e0    k24  nEDy}@J0Sv'
+0x3383c    k37  (vFwx5e,X2
+0x35ca1    k23  {Hp5T/4FeJ
+0x36a79    k16  V<E992XTyMD
+0x3703c    k16  }ka{qn}Nr!
+0x37b9c    k37  zDHwse IdQ
+0x39a13    k26  )MGYKuUX<b
+0x39e37    k7   gwavWWK59f@
+0x3b144    k37  )vuWIg,I/19Z
+0x3c97c    k37  (tRw_4e,xx
+0x3f345    k23  yHp4d/4NeJ
+0x3f5a2    k6   _Ce-aM[!dX
+0x41fe3    k5   yJh87AYdjgX
+0x4205b    k5   y*u&7AYdjgX
+0x42333    k5   yJp37AYdjgX
+0x4264f    k5   yjl97AYdjgX
+0x44fab    k5   yF=.7aYhjkX
+0x45097    k5   y&">7aYhjkX
+0x4538f    k5   yf? 7aYhjkX
+0x4588f    k5   y&-&7aYhjkX
+0x45a2a    k13  .UHuVm-&VW
+0x46d48    k16  }er{1tzNo 
+0x4a8a4    k16  b)o{qkkN. 
+0x4b657    k17  giq>{va!P5
+0x4cba0    k37  iOzWI 3I/19Z
+0x4cc64    k37  IcyWik4I/19Z0
+0x4d5f5    k23  FH3ae(tcB%:
+0x50778    k37  i'vWIw-I/19ZP?0g
+0x50904    k37  hiMw+5e,8D
+0x550e3    k14  (Idu4 phYX
+0x56121    k16  U e!<)GglUD
+0x56228    k16  Nto{BaxN~ 
+0x563ab    k5   yfo77aYhjkX
+0x5645f    k5   yf:87aYhjkX
+0x56b4c    k16  <Ob{sVHnuF
+0x5874c    k37  iYEw@=eo/19Z
+0x58e94    k37  tiNwhB!I500%
+0x58f20    k37  6FQwwa:I%P0
+0x5cca9    k23  FH3<D{'RoJ
+0x5d1f2    k13  'UUq@7LUgo
+0x5d57b    k17  gIu%{VG<Pu
+0x5d674    k37  ic_ww5e,Y5
+0x5ece4    k37  (UeWhK7I/1,Z
+0x5ee10    k37  )UeWiK7I/19Z
+0x604b8    k19  NL&jLiq8to
+0x60634    k16  CQe{O,iN}+
+0x60d58    k15  nqi}#a/EWI
+0x61547    k17  gix&{vN+P5
+0x62804    k37  i}fWiH)I/19Z
+0x652b4    k37  (aOwp5e,8V
+0x66b08    k37  hCKwv6e,X*
+0x67660    k37  IUeWI6#I/19Z
+0x67ae0    k37  h=Sw 0eoXi
+0x67d1e    k13  7UIuT4,'gW
+0x6b0d9    k2   2V!e.@pwiX
+0x6bf04    k30  eJFLS2cCPd
+0x6c26c    k30  gJFLu3cCXD
+0x6dacf    k5   yiT=7!ZgjD
+0x6db5f    k5   yi'(7!ZgjdX
+0x6dde8    k16  y!C[tBkN(o
+0x6fe93    k5   y&B?7aYhjkX
+0x7008f    k5   yFp)7aYhjkX
+0x7048f    k5   yDh>7aYjjB
+0x70593    k5   yD& 7aYjj"
+0x71dfc    k37  uz[wsQ4IxX
+0x728a0    k37  (ozWht=I/1*Z
+0x728b4    k37  )ozWit=I/19Z
+0x7364f    k14  vg/-V Pk}u
+0x7588a    k13  %UHaW4mFgW
+0x78e9f    k5   yfi&7aYhjkX
+0x79023    k5   y&s)7aYhjkX
+0x7934f    k5   y&C.7aYhjkX
+0x79393    k5   yFr47aYhjkX
+0x7954f    k5   y&/,7aYhjkX
+0x79693    k5   yfx17aYhjkX
+0x79aec    k37  h4Owi6e,X2p
+0x7a16c    k37  IawWI9,I/19Z
+0x7b630    k37  IzkWi/2I/19Z
+0x7beec    k16  }wq{1yyNr!
+0x7d59c    k37  h'KwM7e,XY
+0x805f1    k31  7xamx}~drFw
+0x8426c    k16  b)o{1spNy"
+0x84579    k28  <yje}TQ}D>A
+0x87a59    k28  s}Re}TQ=v!AQt
+0x8953f    k17  aj++{wB4Pc
+0x8a1bc    k30  eBFLh3cCLh
+0x8d26c    k37  hySwiR<I:I
+0x90a15    k23  O>v=Hot#r5:V
+0x921a2    k20  t[3>N*yp3TVy
+0x9483c    k37  H!Aww4e,X[
+0x952b8    k16  <aq{3BUn5J
+0x9aa87    k5   y&1,7aYhjkX
+0x9ab5b    k5   yfW<7aYhjkX
+0x9bcec    k37  IHmWIf<Io19Z
+0x9cc7b    k5   y'h?7AYijjX
+0x9cce3    k5   y'*,7AYijjX
+0x9cda7    k5   y')07AYijjX
+0x9ce43    k5   yG*(7AYijjX
+0x9cf0f    k5   yg"'7AYijjX
+0x9cf9f    k5   ygG27AYijjX
+0x9d200    k37  IvbWix(I/19Z0(0g
+0x9d4a4    k37  }SGwb7e,8T
+0x9dd08    k37  i1qWIe<I/19Zp80g
+0x9f180    k30  eBFL{_cCLh
+0xa0081    k16  V?Eo92XT%GD
+0xa0a47    k5   y&E:7aYhjkX
+0xa0bbb    k5   yFm+7aYhjkX
+0xa0c9b    k5   y&(=7aYhjkX
+0xa0cd3    k5   yF!*7aYhjkX
+0xa3473    k12  uZUY'c%<z9
+0xa3742    k20  r[StL*yU2T
+0xa6a9d    k23  EHp"HpuE-K
+0xa7aa4    k37  I4cWiR-I/19Z
+0xa7f78    k37  iJhWIZ:I/19ZQ
+0xa80e5    k16  V=Ei92X4xKD
+0xac700    k37  x#Xww1e,(F
+0xad55d    k23  JHp4D/tB0!:e
+0xae8c4    k16  d=e{y[JnUx
+0xaea14    k37  loaWlU0I/1<Z1
+0xb1507    k5   yGT&7AYijCA
+0xb1687    k5   yg-!7AYijB
+0xb1d9f    k5   yDu"7!YjjiX
+0xb1de5    k33  {(2XS"KuGH
+0xb1e23    k5   ydv(7!YjjiX
+0xb3bbc    k15  npi}#Q.Em+
+0xb6de0    k37  iycWI[7I/19Zp:0g
+0xb796b    k7   AWB}iwuT{&
+0xb9d57    k17  gh+&{WE&Pu
+0xbae83    k17  gin8{vN5P5
+0xbbb10    k37  hP@wq5e,Xg
+0xbd0d1    k23  FH3<D{'jaJ
+0xc0c58    k16  i)o{1GsNF"
+0xc0d34    k37  IAeWIK<I81p
+0xc0e59    k16  V0Eu82X4vID
+0xc29c9    k16  V:E=92XupRD
+0xc40a5    k27  "W_RSiw?Sn
+0xc5415    k27  BV_R{iw?!m
+0xc59eb    k5   yfg-7aYhjkX
+0xc5f78    k37  HpAwA5e,xu
+0xc63bd    k31  SxamIx~dkJw
+0xc8210    k37  (<ZwJ2e,xJ
+0xc852f    k5   y&@57aYhjOX
+0xcbd24    k37  hUXwJ4e,8S
+0xcedf0    k37  (aFwt5e,xC
+0xd0479    k31  OxaMDq~d4Cw
+0xd0d68    k37  HnoW(s.I0s
+0xd1a0d    k23  OH3<Dy'p=H
+0xd1c57    k17  Ahx-{wu3Pro
+0xd23c4    k37  H[Tw~>e,xQ
+0xd84a4    k16  apP[lamNKk
+0xdbee0    k37  iTmWiD#I/19Z
+0xdbf20    k37  iXwWIh<I/19Z
+0xdcb78    k37  H)Hw85e,Xz
+0xe0590    k37  iNmW)O>I/19Z
+0xe112d    k23  DHp"Hpu!WH
+0xe1fbc    k37  (xEwO5e,8k
+0xe22f9    k16  V)E{92Xf RDe
+0xe3c1d    k31  Vxa-ns~DMLw
+0xe7d00    k16  o)o{1xmNz"
+0xe822c    k37  pxAw)5e,3y
+0xe9ce3    k5   yYL(7A[wjtX
+0xea464    k37  hcBw{4e,x#
+0xeb1d0    k37  H+SwE7e,xN
+0xeb9d4    k37  HFAw@5e,x=
+0xecd14    k16  =kk{QunNL#
+0xed1c7    k17  gzI7{ez*PU
+0xed95d    k23  dHp5l/tCi.:
+0xedb89    k9   BsOHaT6z:=K
+0xf1bd5    k16  V:E,82XtJGDVa>
+0xf1ddc    k30  sFYM=HaCF(
+0xf7a88    k14  KG9Xn>xba.w
+0xfa1d0    k16  n)o{Q-hNZ!
+0xfa2ef    k5   yVX67A[oj.Z
+0xfc08b    k17  ghX={WQ=Pu
+0xfea8c    k37  hPSwi{<Iz8
+0xffafb    k17  gii {VK(P5
+0xffdd4    k37  i?rWin3I/19Z
+0x1010b7   k17  gid4{VR9P5
+0x10196b   k29  B~cowHc=ne
+0x101d5c   k37  hQQwiz>Izx
+0x102bdf   k7   A_a>EWS?9f
+0x102c5c   k37  H:Uwp5e,xV
+0x103377   k5   yGU<7AYijb
+0x104c77   k7   gDbr7ra49@
+0x104eb4   k37  iXaWi.)I/19Z
+0x106c0d   k23  GH3<H/tutJ
+0x107fcb   k11  c#7nQog7Q2
+0x10aee4   k16  vsa{ZaxNo 
+0x10bdbc   k37  iRyWIK3I/19Z
+0x10bec8   k37  iRyWIK3I81p
+0x10d108   k5   L.i@!CEpJR
+0x10e033   k5   yf%+7aYhjkX
+0x10e39c   k23  SddeO4-9ZK
+0x10e48f   k5   yfx-7aYhjkX
+0x1101b9   k16  V:Ee92X4bQD
+0x111480   k37  I,rWiY:Io19Z
+0x112c07   k5   yFW87aYhjkX
+0x112d7b   k5   y&f(7aYhjkX
+0x112f0f   k5   yf ?7aYhjkX
+0x113fd3   k5   ytz57![zjyX
+0x114e4b   k22  {MPW1JeDD[O
+0x115ccc   k37  h%Ywx3e,8e
+0x115ff4   k16  }ga{Q(oNp'
+0x1181cc   k37  )nvWim/I/19Z
+0x1184d4   k37  iDlW)C#I/19Zq
+0x11894c   k37  iUqWIU7I/19Z
+0x11a320   k37  HKNwr5e,xe
+0x11a3cc   k37  HaLwG5e,xf
+0x11c1cb   k5   yfx/7aYhjkX
+0x11c2b7   k5   yF >7aYhjK*
+0x11c81f   k17  gIu,{vE&P5
+0x11ca10   k37  HSCwa5e,/1:Z
+0x11cfc5   k23  MHp<Dy'TVI
+0x11d035   k23  IHp<Dy't[I
+0x11d3e1   k23  jHp<Dz'VoI
+0x11fb78   k37  iDoW)y+I/19Z
+0x123a74   k37  I}xWil0I/19Z
+0x1256d9   k23  BHp<Dy'GJI
+0x125b60   k37  IAzWi2"I/19Z
+0x126c5f   k5   yiM-7!ZgjdX
+0x126cb3   k5   yiP87!ZgjdX
+0x1270fb   k5   y_j/7!XqjrX
+0x127dc4   k37  )FmWij%I/19Z
+0x127df8   k37  hAJw'5e,Y.
+0x128621   k31  &xam~j~dUZw
+0x1289c1   k31  .xaM&c~d/Ew
+0x128ae4   k23  ChdeoP&9nH
+0x1299ec   k37  hLAw40e,X3p
+0x12af06   k13  *USqV71geW5
+0x12ce6d   k16  U?da825TwDDV7)
+0x12d88f   k17  J)1ys7nMx"
+0x12ed64   k37  h!Gwt4e,Xo
+0x12ee59   k31  5xamDe~dkSw
+0x12fc95   k21  Nn)1L9oHMuK
+0x12fe10   k37  Hp[wI0e,x{
+0x130455   k21  'n)1L9oHLuK
+0x130c29   k15  gwBe6yzuEo8
+0x130eac   k37  o_Fwnt)I%[
+0x130fc1   k15  g{B%+yzuu}
+0x131c97   k5   yFq)7aYhjkX
+0x132023   k5   yfP<7aYhjkX
+0x13253b   k5   yFP 7aYhjkX
+0x1325ef   k5   y&H17aYhjkX
+0x13271f   k5   y&!57aYhjkX
+0x1327ab   k5   yFm47aYhjkX
+0x133c54   k37  hPXwIu0I81
+0x134149   k15  gxBE0yzT}/
+0x135285   k16  V>E,:2XteSD
+0x136a37   k5   yfj27aYhjkX
+0x136b83   k5   y&E57aYhjkX
+0x136cfb   k5   yFj-7aYhjkX
+0x136f14   k37  HFHw&4e,8z
+0x13784b   k5   yfH*7aYhjkX
+0x1378c7   k5   yF./7aYhjkX
+0x137bcc   k16  olc{#0mNy 
+0x138b5d   k23  FH3<Dz'taJ
+0x13b268   k25  zn-zygisk-loader64
+0x13b27b   k25  Zygisk library injected, version {}{}{}
+0x13b2ad   k25  ,nocheckcpfd
+0x13b2ba   k25  no magisk socket found!
+0x13b2d2   k25  use magisk socket {}
+0x13b2e7   k25  Start hooking
+0x13b2f8   k25  invalid digit count
+0x13b30c   k25  negative value
+0x13b31b   k25  argument not found
+0x13b32e   k25  format-inl.h
+0x13b33b   k25  unmatched '}' in format string
+0x13b35a   k25  invalid format string
+0x13b370   k25  missing '}' in format string
+0x13b38d   k25  unknown format specifier
+0x13b3a6   k25  cannot switch from manual to automatic argument indexing
+0x13b3c6   k25  omatic argument indexing
+0x13b3df   k25  cannot switch from automatic to manual argument indexing
+0x13b3ff   k25  manual argument indexing
+0x13b418   k25  format specifier requires numeric argument
+0x13b438   k25  c argument
+0x13b443   k25  invalid format specifier
+0x13b45c   k25  invalid fill character '{'
+0x13b477   k25  number is too big
+0x13b489   k25  invalid precision
+0x13b49b   k25  invalid fill
+0x13b4a8   k25  width/precision is out of range
+0x13b4c8   k25  width/precision is not integer
+0x13b513   k25  string pointer is null
+0x13ccc0   k29  /debug_ramdisk/.magisk/socket
+0x13ccc6   k0   l+H0dyg"uK
+0x13ccde   k29  /debug_ramdisk/.magisk/device/socket
+0x13cce4   k0   l+H0dyg"uK
+0x13cd03   k29  /sbin/.magisk/socket
+0x13cd18   k29  /sbin/.magisk/device/socket
+0x13cd34   k29  magisk daemon return {}
+0x13cd4c   k29  connect failed with {}
+0x13cd63   k29  system_server
+0x13cd71   k29  GetProcessFlags failed
+0x13cd88   k29  basic_string
+0x13cd95   k32  refusing to unload {}: other threads have pending thread_local d
+0x13cdb5   k32  eads have pending thread_local destructors
+0x13cdd5   k32  estructors
+0x13cde0   k32  Module {} didn't close its companion fd!
+0x13ce09   k32  /proc/self/fd
+0x13ce17   k32  pthread_create failed: {}, running close_empty_fds inline
+0x13ce37   k32  ng close_empty_fds inline
+0x13ce59   k32  remap self anon
+0x13ce69   k32  remap self anon done
+0x13ce7e   k32  preload zygisk modules
+0x13ce95   k32  preload failed: {} {}
+0x13ceab   k32  zygisk_module_entry
+0x13cebf   k32  entry symbol not found: {} {}
+0x13cedd   k32  preloaded {}/{} modules
+0x13cef5   k32  map reserved mem for module {} failed with {}
+0x13cf15   k32  ailed with {}
+0x13cf23   k32  /jit-cache
+0x13cf54   k32  module {}: entry not found: {}
+0x13cf73   k32  open module {} with builtin linker failed: not preloaded
+0x13cf93   k32  er failed: not preloaded
+0x13cfcf   k32  prot r for addr={}+{} path={} off={} failed with {}
+0x13cfef   k32  f={} failed with {}
+0x13d023   k32  f={} failed with {}
+0x13d037   k32  prot orig for addr={}+{} path={} off={} failed with {}
+0x13d057   k32   off={} failed with {}
+0x13d091   k32  bad_variant_access was thrown in -fno-exceptions mode
+0x13d0b1   k32   -fno-exceptions mode
+0x13d0ce   k32  map for addr={} sz={} path={} perm={:x} off={} failed with {}
+0x13d0ee   k32  rm={:x} off={} failed with {}
+0x13d12c   k32  rm={:x} off={} failed with {}
+0x13d14a   k32  prot orig for addr={}+{} path={} perm={:x} off={} failed with {}
+0x13d16a   k32   perm={:x} off={} failed with {}
+0x13d18b   k32  no cfi shadow found!
+0x13d1a0   k32  prot failed failed with {}
+0x13d1bb   k32  restore prot failed failed with {}
+0x13d1f0   k32  cfi shadow addr 0x{:x}
+0x13d207   k32  bad_function_call was thrown in -fno-exceptions mode
+0x13d227   k32  -fno-exceptions mode
+0x13d246   k32  open /dev/null failed with {}
+0x13d26f   k32  /memfd:/boot-image-methods.art
+0x13d28e   k32  closing empty fd {}
+0x13d2a2   k32  dup empty fd {} failed with {}
+0x13d307   k36  finafized__c
+0x13d314   k36  a_atoxitddl_
+0x13d324   k36  ate_zhdrd__t
+0x13d333   k36  get_kddrd___
+0x13d343   k36  get_kddrd__c
+0x13d418   k11  zn_zygote_{}
+0x13d425   k11  connect daemon failed with {}
+0x13d443   k11  GetUidFlags failed
+0x13d456   k11  ReadModules failed
+0x13d469   k11  ConnectCompanion failed
+0x13d481   k11  GetModuleDir failed
+0x13d495   k11  Start failed
+0x13d4a2   k11  Stop failed
+0x13d4ae   k11  Exit failed
+0x13d4ba   k11  SetDenylistPolicy failed
+0x13d4d3   k11  GetDenylist failed
+0x13d4e6   k11  SetEnforceDenylist failed
+0x13d500   k11  SetMemoryType failed
+0x13d515   k11  GetMemoryType failed
+0x13d52a   k11  SetLinker failed
+0x13d53b   k11  GetLinker failed
+0x13d54c   k11  PutCleanNs failed
+0x13d55e   k11  GetCleanNs failed
+0x13d570   k11  release unshare file lock failed with {}
+0x13d599   k11  get unshare lock fd failed
+0x13d5b4   k11  acquire unshare file lock failed with {}
+0x13d5dd   k11  DisableZygisk failed
+0x13d5f2   k11  DumpZnModules failed
+0x13d607   k11  GetRootImpl failed
+0x13d61a   k11  SetHookMode failed
+0x13d62d   k11  ZygiskHookReport failed
+0x13d645   k11  ZygiskJniNotFoundReport failed
+0x13d664   k11  ReportModuleIssue failed
+0x13d67d   k11  zn_global_{}
+0x13d68a   k11  create pipe failed with {}
+0x13d6a5   k11  sendmsg failed with {}
+0x13d6bc   k11  remote WriteProc failed
+0x13d6d4   k11  WriteProc failed
+0x13d6e5   k11  remote RequestExecMemHelperFd failed
+0x13d70a   k11  RequestExecMemHelperFd failed
+0x13d728   k11  ZnServiceRequestCompanion failed
+0x13d757   k19  /proc/{}/mountinfo
+0x13d76a   k19  getfilecon {} failed with {}
+0x13d787   k19  filecon too big ({})
+0x13d79c   k19  real_path {} failed with {}
+0x13d7b8   k19  create_dir {} failed with {}
+0x13d7d5   k19  create_dirs {} failed
+0x13d7eb   k19  opendir {} failed with {}
+0x13d805   k19  fdopendir {} failed with {}
+0x13d821   k19  fopen {} failed with {}
+0x13d839   k19  fdopen {} failed with {}
+0x13d8aa   k19  propagate_from:
+0x13d8f4   k17  /data/adb/
+0x13d8ff   k17  cleanns pipe failed with {}
+0x13d91b   k17  cleanns fork failed with {}
+0x13d937   k17  /proc/{}/mounts
+0x13d949   k17  mntbuf cleaned
+0x13d958   k17  cleanns mntent failed with {}
+0x13d976   k17  cleanns wait failed with {}
+0x13d992   k17  cleanns failed
+0x13d9a1   k17  cleanns unshare failed with {}
+0x13d9c0   k17  /proc/self/ns/mnt
+0x13d9d2   k17  cleanns open fd failed with {}
+0x13d9f1   k17  /data/adb/modules
+0x13da18   k17  Unmounted ({})
+0x13da29   k26  failed to create log socket: %d
+0x13da49   k26  failed to connect log socket: %d
+0x13da78   k26  failed to write socket: %d
+0x13dac4   k26  invalid format specifier for char
+0x13dae6   k5   failed to read magic failed with {}
+0x13db0a   k5   {} not found failed with {}
+0x13db26   k5   failed to generate magic
+0x13db3f   k5   failed to write magic failed with {}
+0x13db64   k5   {} failed to create failed with {}
+0x13db87   k5   {} /dev/urandom failed with {}
+0x13dbaa   k33  selinux support is disabled explicitly
+0x13dbd1   k33  selinuxfs not detected, disable selinux feature!
+0x13dbf1   k33  selinux feature!
+0x13dc08   k33  execveat: could not open {} failed with {}
+0x13dc28   k33  ed with {}
+0x13dc3a   k9   get peercred failed with {}
+0x13dc56   k9   get peersec failed with {}
+0x13dc71   k9   read failed with {}
+0x13dca4   k9   write failed with {}
+0x13dcd9   k9   recvmsg failed with {}
+0x13dcf0   k9   sendmsg failed with {}
+0x13dd07   k9   too big string to read: {}
+0x13dd22   k9   too big string to write: {}
+0x13dd3e   k9   /proc/thread-self/attr/sockcreate
+0x13dd60   k9   /proc/{}/attr/sockcreate
+0x13dd79   k9   set socket con failed with {}
+0x13dd97   k9   getfd failed with {}
+0x13ddac   k9   setfd failed with {}
+0x13ddc1   k9   too long path {}
+0x13ddd2   k9   create abstract {} failed with {}
+0x13ddf4   k9   bind {} failed with {}
+0x13de0b   k9   listen socket failed with {}
+0x13de28   k9   connect {} failed with {}
+0x13de42   k9   recv_fd: msg_flags = {}, msg_controllen({}) != {}
+0x13de74   k9   recv_fd: cmsg == nullptr
+0x13dea9   k9   recv_fd: cmsg_level != SOL_SOCKET
+0x13decb   k9   recv_fd: cmsg_type != SCM_RIGHTS
+0x13df10   k28  Incompletely plt hook {}
+0x13df29   k28  make backup {} prot none
+0x13df42   k28  restore protect of {} failed with {}
+0x13e1cf   k30  missing PT_DYNAMIC in "{}"
+0x13e1ea   k30  TLS segment alignment in "{}" is not a power of 2: {}
+0x13e220   k30  invalid maskwords for gnu_hash = 0x{}, in "{}" expecting power t
+0x13e240   k30   0x{}, in "{}" expecting power to two
+0x13e266   k30  invalid DT_SYMENT: {} in "{}"
+0x13e2a4   k30  xpected DT_RELA
+0x13e2b4   k30  unsupported DT_ANDROID_REL in "{}"
+0x13e2d7   k30  unsupported DT_ANDROID_RELSZ in "{}"
+0x13e2fc   k30  invalid DT_RELAENT: {}
+0x13e313   k30  unsupported DT_REL in "{}"
+0x13e32e   k30  unsupported DT_RELSZ in "{}"
+0x13e34b   k30  invalid DT_RELRENT: {}
+0x13e362   k30  "{}" has text relocations
+0x13e37c   k30  empty/missing DT_HASH/DT_GNU_HASH in "{}" (new hash type from th
+0x13e39c   k30  H in "{}" (new hash type from the future?)
+0x13e3bc   k30  e future?)
+0x13e3c7   k30  empty/missing DT_STRTAB in "{}"
+0x13e3e7   k30  empty/missing DT_SYMTAB in "{}"
+0x13e640   k27  zn_internal
+0x13e64c   k27  Not found: '{}' needed by '{}' while loading '{}'
+0x13e66c   k27  hile loading '{}'
+0x13e67e   k27  ifunc is disallowed!
+0x13e693   k27  "{}": ignoring DT_PREINIT_ARRAY in shared library!
+0x13e6b3   k27  in shared library!
+0x13e6f9   k27  ld-android.so
+0x13e707   k27  Warning: unexpected ST_BIND value: {} for "{}" in "{}" (ignoring
+0x13e760   k31  refusing to unload "{}": cannot identify unloading thread
+0x13e780   k31  identify unloading thread
+0x13e79a   k31  refusing to unload "{}": custom TLS unload already in progress
+0x13e7ba   k31  TLS unload already in progress
+0x13e7d9   k31  thread accessed custom TLS module {} while it is unloading
+0x13e7f9   k31  e {} while it is unloading
+0x13e81b   k31  zn_tls_alloc
+0x13e84a   k21  open maps failed with {}
+0x13e870   k21  /proc/self/maps
+0x13e887   k14  parse base 0
+0x13e894   k14  wrong size
+0x13e89f   k14  verify elf header
+0x13e8c9   k14  .gnu_debugdata
+0x13e8d8   k14  failed to initialize gnu_debugdata
+0x13e8fb   k14  elf_parser: stat {} failed with {}
+0x13e91e   k14  elf_parser: mmap {} failed with {}
+0x13e941   k14  no plt addr for {}
+0x13e960   k14  unxz error: {}
+0x13e971   k14  elf_parser: open {} failed with {}
+0x13e9ac   k36  it_axrayd.fi
+0x13e9b8   k36  ni_axrayd.te
+0x13e9d1   k36  .andxoidJide
+0x13e9d7   k36  id.inentd.go
+0x13ea05   k36  rameUhdrd.gn
+0x13ea14   k36  ersien_rd.da
+0x13ea21   k36  a.ref.rod.re
+0x13ea38   k36  .veryiond.dy
+0x13ea4a   k36  gnu.bashd.re
+0x13ea59   k36  _padningd.eh
+0x13ea63   k36  eh_fxamed__l
+0x13ea73   k36  overxided.no
+0x13ea86   k36  builn-idd.dy
+0x13ea8f   k36  .dynkmicd.sh
+0x13ea99   k36  shstxtabd.ro

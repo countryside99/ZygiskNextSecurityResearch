@@ -1,0 +1,92 @@
+{
+ "bin\\arm64-v8a\\zygiskd": {
+  "keys": 38,
+  "total": 1370,
+  "long12": 922,
+  "sus": 0
+ },
+ "bin\\armeabi-v7a\\zygiskd": {
+  "keys": 38,
+  "total": 510,
+  "long12": 152,
+  "sus": 0
+ },
+ "bin\\x86\\zygiskd": {
+  "keys": 38,
+  "total": 331,
+  "long12": 128,
+  "sus": 0
+ },
+ "bin\\x86_64\\zygiskd": {
+  "keys": 38,
+  "total": 731,
+  "long12": 205,
+  "sus": 0
+ },
+ "lib\\arm64-v8a\\libpayload.so": {
+  "keys": 38,
+  "total": 10,
+  "long12": 9,
+  "sus": 0
+ },
+ "lib\\arm64-v8a\\libzn_loader.so": {
+  "keys": 38,
+  "total": 400,
+  "long12": 242,
+  "sus": 0
+ },
+ "lib\\arm64-v8a\\libzygisk.so": {
+  "keys": 38,
+  "total": 664,
+  "long12": 412,
+  "sus": 0
+ },
+ "lib\\armeabi-v7a\\libpayload.so": {
+  "keys": 38,
+  "total": 10,
+  "long12": 8,
+  "sus": 0
+ },
+ "lib\\armeabi-v7a\\libzn_loader.so": {
+  "keys": 38,
+  "total": 189,
+  "long12": 81,
+  "sus": 0
+ },
+ "lib\\armeabi-v7a\\libzygisk.so": {
+  "keys": 38,
+  "total": 372,
+  "long12": 178,
+  "sus": 0
+ },
+ "lib\\x86\\libzn_loader.so": {
+  "keys": 38,
+  "total": 311,
+  "long12": 132,
+  "sus": 0
+ },
+ "lib\\x86\\libzygisk.so": {
+  "keys": 38,
+  "total": 529,
+  "long12": 189,
+  "sus": 0
+ },
+ "lib\\x86_64\\libpayload.so": {
+  "keys": 38,
+  "total": 10,
+  "long12": 9,
+  "sus": 0
+ },
+ "lib\\x86_64\\libzn_loader.so": {
+  "keys": 38,
+  "total": 338,
+  "long12": 137,
+  "sus": 0
+ },
+ "lib\\x86_64\\libzygisk.so": {
+  "keys": 38,
+  "total": 603,
+  "long12": 203,
+  "sus": 0
+ }
+}
