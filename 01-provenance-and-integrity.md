@@ -77,16 +77,13 @@ packaging choice, not concealment — the documentation is public.
 **Verdict: explained, documented, benign.**
 
 ## 1.4 Things that are *not* explained by the local zip
+1 Honest caveat belong here rather than being buried:
 
-Two honest caveats belong here rather than being buried:
-
-1. **Remote update channel.** `updateJson=https://lsposed.zip/zygisk-next/update.json` means the
+ **Remote update channel.** `updateJson=https://lsposed.zip/zygisk-next/update.json` means the
    installed module can be replaced by whatever that endpoint serves later. A clean 1.5.0 today
    says nothing about 1.5.1. Any conclusion from this research is scoped to **this build
    (843-5217106)**.
-2. **The wrapper repository.** The working directory also contains an unrelated wrapper archive
-   (`VexZygisk-main.zip`). Per the scope of this research it was **not analyzed**; it is not part
-   of the Zygisk Next release and no conclusion here refers to it.
+
 
 ## 1.5 Reproduction
 
