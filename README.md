@@ -1,3 +1,6 @@
+## CURRENT VERDICT: 🟢 SAFE FOR NOW.
+
+
 # ZygiskNext Security Research
 
 **Public, independent security research** on [Zygisk Next](https://github.com/LSPosed/ZygiskNext), a **closed-source** implementation of Zygisk.
